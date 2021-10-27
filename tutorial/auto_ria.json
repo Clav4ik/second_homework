@@ -1,0 +1,4682 @@
+[
+  {
+    "model": "Tesla Model S",
+    "year": "2017",
+    "way": "55",
+    "uah_price": "1 718 986",
+    "usd_price": "64 990",
+    "vin": "5YJSA1E4хHFхххх37",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31200255.html"
+  },
+  {
+    "model": "Tesla Model X P90D Performance",
+    "year": "2016",
+    "way": "58",
+    "uah_price": "2 483 655",
+    "usd_price": "93 900",
+    "vin": "5YJXCCE4хGFхххх02",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31122560.html"
+  },
+  {
+    "model": "Tesla Model 3 Long Range FSD 3.0",
+    "year": "2018",
+    "way": "92",
+    "uah_price": "897 465",
+    "usd_price": "33 500",
+    "vin": "5YJ3E1EA3JF006786",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31221781.html"
+  },
+  {
+    "model": "Tesla Model X 90D",
+    "year": "2016",
+    "way": "98",
+    "uah_price": "1 307 352",
+    "usd_price": "48 800",
+    "vin": "5YJXCBE25GF004567",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_30671356.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2013",
+    "way": "103",
+    "uah_price": "687 436",
+    "usd_price": "25 990",
+    "vin": "5YJSA1DNхDFхххх89",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31169627.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "94",
+    "uah_price": "1 005 100",
+    "usd_price": "38 000",
+    "vin": "5YJSA1E2хGFхххх97",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31367894.html"
+  },
+  {
+    "model": "Tesla Model S 70D",
+    "year": "2016",
+    "way": "70",
+    "uah_price": "951 045",
+    "usd_price": "35 500",
+    "vin": "5YJSA1E2хGFхххх69",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_27218326.html"
+  },
+  {
+    "model": "Tesla Model S 90D",
+    "year": "2016",
+    "way": "18",
+    "uah_price": "1 042 131",
+    "usd_price": "38 900",
+    "vin": "5YJSA1E21GF132461",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31242751.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "130",
+    "uah_price": "908 181",
+    "usd_price": "33 900",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31332669.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2013",
+    "way": "187",
+    "uah_price": "621 575",
+    "usd_price": "23 500",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31013827.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM Performance",
+    "year": "2018",
+    "way": "71",
+    "uah_price": "1 190 224",
+    "usd_price": "44 999",
+    "vin": "5YJ3E1EBхJFхххх67",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31216514.html"
+  },
+  {
+    "model": "Tesla Model 3 LR Dual Motor",
+    "year": "2018",
+    "way": "11",
+    "uah_price": "1 322 474",
+    "usd_price": "49 999",
+    "vin": "5YJ3E1EBхJFхххх55",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30740770.html"
+  },
+  {
+    "model": "Tesla Model 3",
+    "year": "2017",
+    "way": "88",
+    "uah_price": "910 860",
+    "usd_price": "34 000",
+    "vin": "5YJ3E1EA2HF001492",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31363643.html"
+  },
+  {
+    "model": "Tesla Model 3 DM Performance",
+    "year": "2018",
+    "way": "98",
+    "uah_price": "1 005 965",
+    "usd_price": "37 550",
+    "vin": "5YJ3E1EBхJFхххх33",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30964119.html"
+  },
+  {
+    "model": "Tesla Model S Restyle 75",
+    "year": "2016",
+    "way": "11",
+    "uah_price": "959 082",
+    "usd_price": "35 800",
+    "vin": "5YJSA1E1XGF158127",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31147595.html"
+  },
+  {
+    "model": "Tesla Model Y LR DM Performance",
+    "year": "2020",
+    "way": "6",
+    "uah_price": "2 089 524",
+    "usd_price": "78 999",
+    "vin": "5YJYGDEFхMFхххх79",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_y_31204492.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM FSD",
+    "year": "2018",
+    "way": "39",
+    "uah_price": "1 184 118",
+    "usd_price": "44 200",
+    "vin": "5YJ3E1EB5JF100998",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30930447.html"
+  },
+  {
+    "model": "Tesla Model 3 Performance",
+    "year": "2021",
+    "way": "7",
+    "uah_price": "1 840 625",
+    "usd_price": "68 706",
+    "vin": "5YJ3E7ECхMFхххх45",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_29708780.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2014",
+    "way": "94",
+    "uah_price": "634 774",
+    "usd_price": "23 999",
+    "vin": "5YJSA1S1хEFхххх88",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_30811049.html"
+  },
+  {
+    "model": "Tesla Model X",
+    "year": "2018",
+    "way": "21",
+    "uah_price": "1 580 610",
+    "usd_price": "59 000",
+    "vin": "5YJXCBE27JF141145",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31370747.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2017",
+    "way": "55",
+    "uah_price": "1 718 986",
+    "usd_price": "64 990",
+    "vin": "5YJSA1E4хHFхххх37",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31200255.html"
+  },
+  {
+    "model": "Tesla Model X P90D Performance",
+    "year": "2016",
+    "way": "58",
+    "uah_price": "2 483 655",
+    "usd_price": "93 900",
+    "vin": "5YJXCCE4хGFхххх02",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31122560.html"
+  },
+  {
+    "model": "Tesla Model 3 Long Range FSD 3.0",
+    "year": "2018",
+    "way": "92",
+    "uah_price": "897 465",
+    "usd_price": "33 500",
+    "vin": "5YJ3E1EA3JF006786",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31221781.html"
+  },
+  {
+    "model": "Tesla Model X 90D",
+    "year": "2016",
+    "way": "98",
+    "uah_price": "1 307 352",
+    "usd_price": "48 800",
+    "vin": "5YJXCBE25GF004567",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_30671356.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2013",
+    "way": "103",
+    "uah_price": "687 436",
+    "usd_price": "25 990",
+    "vin": "5YJSA1DNхDFхххх89",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31169627.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "94",
+    "uah_price": "1 005 100",
+    "usd_price": "38 000",
+    "vin": "5YJSA1E2хGFхххх97",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31367894.html"
+  },
+  {
+    "model": "Tesla Model S 70D",
+    "year": "2016",
+    "way": "70",
+    "uah_price": "951 045",
+    "usd_price": "35 500",
+    "vin": "5YJSA1E2хGFхххх69",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_27218326.html"
+  },
+  {
+    "model": "Tesla Model S 90D",
+    "year": "2016",
+    "way": "18",
+    "uah_price": "1 042 131",
+    "usd_price": "38 900",
+    "vin": "5YJSA1E21GF132461",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31242751.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "130",
+    "uah_price": "908 181",
+    "usd_price": "33 900",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31332669.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2013",
+    "way": "187",
+    "uah_price": "621 575",
+    "usd_price": "23 500",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31013827.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM Performance",
+    "year": "2018",
+    "way": "71",
+    "uah_price": "1 190 224",
+    "usd_price": "44 999",
+    "vin": "5YJ3E1EBхJFхххх67",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31216514.html"
+  },
+  {
+    "model": "Tesla Model 3 LR Dual Motor",
+    "year": "2018",
+    "way": "11",
+    "uah_price": "1 322 474",
+    "usd_price": "49 999",
+    "vin": "5YJ3E1EBхJFхххх55",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30740770.html"
+  },
+  {
+    "model": "Tesla Model 3",
+    "year": "2017",
+    "way": "88",
+    "uah_price": "910 860",
+    "usd_price": "34 000",
+    "vin": "5YJ3E1EA2HF001492",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31363643.html"
+  },
+  {
+    "model": "Tesla Model 3 DM Performance",
+    "year": "2018",
+    "way": "98",
+    "uah_price": "1 005 965",
+    "usd_price": "37 550",
+    "vin": "5YJ3E1EBхJFхххх33",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30964119.html"
+  },
+  {
+    "model": "Tesla Model S Restyle 75",
+    "year": "2016",
+    "way": "11",
+    "uah_price": "959 082",
+    "usd_price": "35 800",
+    "vin": "5YJSA1E1XGF158127",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31147595.html"
+  },
+  {
+    "model": "Tesla Model Y LR DM Performance",
+    "year": "2020",
+    "way": "6",
+    "uah_price": "2 089 524",
+    "usd_price": "78 999",
+    "vin": "5YJYGDEFхMFхххх79",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_y_31204492.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM FSD",
+    "year": "2018",
+    "way": "39",
+    "uah_price": "1 184 118",
+    "usd_price": "44 200",
+    "vin": "5YJ3E1EB5JF100998",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30930447.html"
+  },
+  {
+    "model": "Tesla Model 3 Performance",
+    "year": "2021",
+    "way": "7",
+    "uah_price": "1 840 625",
+    "usd_price": "68 706",
+    "vin": "5YJ3E7ECхMFхххх45",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_29708780.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2014",
+    "way": "94",
+    "uah_price": "634 774",
+    "usd_price": "23 999",
+    "vin": "5YJSA1S1хEFхххх88",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_30811049.html"
+  },
+  {
+    "model": "Tesla Model X",
+    "year": "2018",
+    "way": "21",
+    "uah_price": "1 580 610",
+    "usd_price": "59 000",
+    "vin": "5YJXCBE27JF141145",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31370747.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2017",
+    "way": "55",
+    "uah_price": "1 718 986",
+    "usd_price": "64 990",
+    "vin": "5YJSA1E4хHFхххх37",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31200255.html"
+  },
+  {
+    "model": "Tesla Model X P90D Performance",
+    "year": "2016",
+    "way": "58",
+    "uah_price": "2 483 655",
+    "usd_price": "93 900",
+    "vin": "5YJXCCE4хGFхххх02",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31122560.html"
+  },
+  {
+    "model": "Tesla Model 3 Long Range FSD 3.0",
+    "year": "2018",
+    "way": "92",
+    "uah_price": "897 465",
+    "usd_price": "33 500",
+    "vin": "5YJ3E1EA3JF006786",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31221781.html"
+  },
+  {
+    "model": "Tesla Model X 90D",
+    "year": "2016",
+    "way": "98",
+    "uah_price": "1 307 352",
+    "usd_price": "48 800",
+    "vin": "5YJXCBE25GF004567",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_30671356.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2013",
+    "way": "103",
+    "uah_price": "687 436",
+    "usd_price": "25 990",
+    "vin": "5YJSA1DNхDFхххх89",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31169627.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "94",
+    "uah_price": "1 005 100",
+    "usd_price": "38 000",
+    "vin": "5YJSA1E2хGFхххх97",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31367894.html"
+  },
+  {
+    "model": "Tesla Model S 70D",
+    "year": "2016",
+    "way": "70",
+    "uah_price": "951 045",
+    "usd_price": "35 500",
+    "vin": "5YJSA1E2хGFхххх69",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_27218326.html"
+  },
+  {
+    "model": "Tesla Model S 90D",
+    "year": "2016",
+    "way": "18",
+    "uah_price": "1 042 131",
+    "usd_price": "38 900",
+    "vin": "5YJSA1E21GF132461",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31242751.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "130",
+    "uah_price": "908 181",
+    "usd_price": "33 900",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31332669.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2013",
+    "way": "187",
+    "uah_price": "621 575",
+    "usd_price": "23 500",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31013827.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM Performance",
+    "year": "2018",
+    "way": "71",
+    "uah_price": "1 190 224",
+    "usd_price": "44 999",
+    "vin": "5YJ3E1EBхJFхххх67",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31216514.html"
+  },
+  {
+    "model": "Tesla Model 3 LR Dual Motor",
+    "year": "2018",
+    "way": "11",
+    "uah_price": "1 322 474",
+    "usd_price": "49 999",
+    "vin": "5YJ3E1EBхJFхххх55",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30740770.html"
+  },
+  {
+    "model": "Tesla Model 3",
+    "year": "2017",
+    "way": "88",
+    "uah_price": "910 860",
+    "usd_price": "34 000",
+    "vin": "5YJ3E1EA2HF001492",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31363643.html"
+  },
+  {
+    "model": "Tesla Model 3 DM Performance",
+    "year": "2018",
+    "way": "98",
+    "uah_price": "1 005 965",
+    "usd_price": "37 550",
+    "vin": "5YJ3E1EBхJFхххх33",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30964119.html"
+  },
+  {
+    "model": "Tesla Model S Restyle 75",
+    "year": "2016",
+    "way": "11",
+    "uah_price": "959 082",
+    "usd_price": "35 800",
+    "vin": "5YJSA1E1XGF158127",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31147595.html"
+  },
+  {
+    "model": "Tesla Model Y LR DM Performance",
+    "year": "2020",
+    "way": "6",
+    "uah_price": "2 089 524",
+    "usd_price": "78 999",
+    "vin": "5YJYGDEFхMFхххх79",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_y_31204492.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM FSD",
+    "year": "2018",
+    "way": "39",
+    "uah_price": "1 184 118",
+    "usd_price": "44 200",
+    "vin": "5YJ3E1EB5JF100998",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30930447.html"
+  },
+  {
+    "model": "Tesla Model 3 Performance",
+    "year": "2021",
+    "way": "7",
+    "uah_price": "1 840 625",
+    "usd_price": "68 706",
+    "vin": "5YJ3E7ECхMFхххх45",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_29708780.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2014",
+    "way": "94",
+    "uah_price": "634 774",
+    "usd_price": "23 999",
+    "vin": "5YJSA1S1хEFхххх88",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_30811049.html"
+  },
+  {
+    "model": "Tesla Model X",
+    "year": "2018",
+    "way": "21",
+    "uah_price": "1 580 610",
+    "usd_price": "59 000",
+    "vin": "5YJXCBE27JF141145",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31370747.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2017",
+    "way": "55",
+    "uah_price": "1 718 986",
+    "usd_price": "64 990",
+    "vin": "5YJSA1E4хHFхххх37",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31200255.html"
+  },
+  {
+    "model": "Tesla Model X P90D Performance",
+    "year": "2016",
+    "way": "58",
+    "uah_price": "2 483 655",
+    "usd_price": "93 900",
+    "vin": "5YJXCCE4хGFхххх02",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31122560.html"
+  },
+  {
+    "model": "Tesla Model 3 Long Range FSD 3.0",
+    "year": "2018",
+    "way": "92",
+    "uah_price": "897 465",
+    "usd_price": "33 500",
+    "vin": "5YJ3E1EA3JF006786",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31221781.html"
+  },
+  {
+    "model": "Tesla Model X 90D",
+    "year": "2016",
+    "way": "98",
+    "uah_price": "1 307 352",
+    "usd_price": "48 800",
+    "vin": "5YJXCBE25GF004567",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_30671356.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2013",
+    "way": "103",
+    "uah_price": "687 436",
+    "usd_price": "25 990",
+    "vin": "5YJSA1DNхDFхххх89",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31169627.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "94",
+    "uah_price": "1 005 100",
+    "usd_price": "38 000",
+    "vin": "5YJSA1E2хGFхххх97",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31367894.html"
+  },
+  {
+    "model": "Tesla Model S 70D",
+    "year": "2016",
+    "way": "70",
+    "uah_price": "951 045",
+    "usd_price": "35 500",
+    "vin": "5YJSA1E2хGFхххх69",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_27218326.html"
+  },
+  {
+    "model": "Tesla Model S 90D",
+    "year": "2016",
+    "way": "18",
+    "uah_price": "1 042 131",
+    "usd_price": "38 900",
+    "vin": "5YJSA1E21GF132461",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31242751.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "130",
+    "uah_price": "908 181",
+    "usd_price": "33 900",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31332669.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2013",
+    "way": "187",
+    "uah_price": "621 575",
+    "usd_price": "23 500",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31013827.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM Performance",
+    "year": "2018",
+    "way": "71",
+    "uah_price": "1 190 224",
+    "usd_price": "44 999",
+    "vin": "5YJ3E1EBхJFхххх67",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31216514.html"
+  },
+  {
+    "model": "Tesla Model 3 LR Dual Motor",
+    "year": "2018",
+    "way": "11",
+    "uah_price": "1 322 474",
+    "usd_price": "49 999",
+    "vin": "5YJ3E1EBхJFхххх55",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30740770.html"
+  },
+  {
+    "model": "Tesla Model 3",
+    "year": "2017",
+    "way": "88",
+    "uah_price": "910 860",
+    "usd_price": "34 000",
+    "vin": "5YJ3E1EA2HF001492",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31363643.html"
+  },
+  {
+    "model": "Tesla Model 3 DM Performance",
+    "year": "2018",
+    "way": "98",
+    "uah_price": "1 005 965",
+    "usd_price": "37 550",
+    "vin": "5YJ3E1EBхJFхххх33",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30964119.html"
+  },
+  {
+    "model": "Tesla Model S Restyle 75",
+    "year": "2016",
+    "way": "11",
+    "uah_price": "959 082",
+    "usd_price": "35 800",
+    "vin": "5YJSA1E1XGF158127",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31147595.html"
+  },
+  {
+    "model": "Tesla Model Y LR DM Performance",
+    "year": "2020",
+    "way": "6",
+    "uah_price": "2 089 524",
+    "usd_price": "78 999",
+    "vin": "5YJYGDEFхMFхххх79",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_y_31204492.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM FSD",
+    "year": "2018",
+    "way": "39",
+    "uah_price": "1 184 118",
+    "usd_price": "44 200",
+    "vin": "5YJ3E1EB5JF100998",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30930447.html"
+  },
+  {
+    "model": "Tesla Model 3 Performance",
+    "year": "2021",
+    "way": "7",
+    "uah_price": "1 840 625",
+    "usd_price": "68 706",
+    "vin": "5YJ3E7ECхMFхххх45",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_29708780.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2014",
+    "way": "94",
+    "uah_price": "634 774",
+    "usd_price": "23 999",
+    "vin": "5YJSA1S1хEFхххх88",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_30811049.html"
+  },
+  {
+    "model": "Tesla Model X",
+    "year": "2018",
+    "way": "21",
+    "uah_price": "1 580 610",
+    "usd_price": "59 000",
+    "vin": "5YJXCBE27JF141145",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31370747.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2017",
+    "way": "55",
+    "uah_price": "1 718 986",
+    "usd_price": "64 990",
+    "vin": "5YJSA1E4хHFхххх37",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31200255.html"
+  },
+  {
+    "model": "Tesla Model X P90D Performance",
+    "year": "2016",
+    "way": "58",
+    "uah_price": "2 483 655",
+    "usd_price": "93 900",
+    "vin": "5YJXCCE4хGFхххх02",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31122560.html"
+  },
+  {
+    "model": "Tesla Model 3 Long Range FSD 3.0",
+    "year": "2018",
+    "way": "92",
+    "uah_price": "897 465",
+    "usd_price": "33 500",
+    "vin": "5YJ3E1EA3JF006786",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31221781.html"
+  },
+  {
+    "model": "Tesla Model X 90D",
+    "year": "2016",
+    "way": "98",
+    "uah_price": "1 307 352",
+    "usd_price": "48 800",
+    "vin": "5YJXCBE25GF004567",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_30671356.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2013",
+    "way": "103",
+    "uah_price": "687 436",
+    "usd_price": "25 990",
+    "vin": "5YJSA1DNхDFхххх89",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31169627.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "94",
+    "uah_price": "1 005 100",
+    "usd_price": "38 000",
+    "vin": "5YJSA1E2хGFхххх97",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31367894.html"
+  },
+  {
+    "model": "Tesla Model S 70D",
+    "year": "2016",
+    "way": "70",
+    "uah_price": "951 045",
+    "usd_price": "35 500",
+    "vin": "5YJSA1E2хGFхххх69",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_27218326.html"
+  },
+  {
+    "model": "Tesla Model S 90D",
+    "year": "2016",
+    "way": "18",
+    "uah_price": "1 042 131",
+    "usd_price": "38 900",
+    "vin": "5YJSA1E21GF132461",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31242751.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "130",
+    "uah_price": "908 181",
+    "usd_price": "33 900",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31332669.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2013",
+    "way": "187",
+    "uah_price": "621 575",
+    "usd_price": "23 500",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31013827.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM Performance",
+    "year": "2018",
+    "way": "71",
+    "uah_price": "1 190 224",
+    "usd_price": "44 999",
+    "vin": "5YJ3E1EBхJFхххх67",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31216514.html"
+  },
+  {
+    "model": "Tesla Model 3 LR Dual Motor",
+    "year": "2018",
+    "way": "11",
+    "uah_price": "1 322 474",
+    "usd_price": "49 999",
+    "vin": "5YJ3E1EBхJFхххх55",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30740770.html"
+  },
+  {
+    "model": "Tesla Model 3",
+    "year": "2017",
+    "way": "88",
+    "uah_price": "910 860",
+    "usd_price": "34 000",
+    "vin": "5YJ3E1EA2HF001492",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31363643.html"
+  },
+  {
+    "model": "Tesla Model 3 DM Performance",
+    "year": "2018",
+    "way": "98",
+    "uah_price": "1 005 965",
+    "usd_price": "37 550",
+    "vin": "5YJ3E1EBхJFхххх33",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30964119.html"
+  },
+  {
+    "model": "Tesla Model S Restyle 75",
+    "year": "2016",
+    "way": "11",
+    "uah_price": "959 082",
+    "usd_price": "35 800",
+    "vin": "5YJSA1E1XGF158127",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31147595.html"
+  },
+  {
+    "model": "Tesla Model Y LR DM Performance",
+    "year": "2020",
+    "way": "6",
+    "uah_price": "2 089 524",
+    "usd_price": "78 999",
+    "vin": "5YJYGDEFхMFхххх79",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_y_31204492.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM FSD",
+    "year": "2018",
+    "way": "39",
+    "uah_price": "1 184 118",
+    "usd_price": "44 200",
+    "vin": "5YJ3E1EB5JF100998",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30930447.html"
+  },
+  {
+    "model": "Tesla Model 3 Performance",
+    "year": "2021",
+    "way": "7",
+    "uah_price": "1 840 625",
+    "usd_price": "68 706",
+    "vin": "5YJ3E7ECхMFхххх45",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_29708780.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2014",
+    "way": "94",
+    "uah_price": "634 774",
+    "usd_price": "23 999",
+    "vin": "5YJSA1S1хEFхххх88",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_30811049.html"
+  },
+  {
+    "model": "Tesla Model X",
+    "year": "2018",
+    "way": "21",
+    "uah_price": "1 580 610",
+    "usd_price": "59 000",
+    "vin": "5YJXCBE27JF141145",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31370747.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2017",
+    "way": "55",
+    "uah_price": "1 718 986",
+    "usd_price": "64 990",
+    "vin": "5YJSA1E4хHFхххх37",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31200255.html"
+  },
+  {
+    "model": "Tesla Model X P90D Performance",
+    "year": "2016",
+    "way": "58",
+    "uah_price": "2 483 655",
+    "usd_price": "93 900",
+    "vin": "5YJXCCE4хGFхххх02",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31122560.html"
+  },
+  {
+    "model": "Tesla Model 3 Long Range FSD 3.0",
+    "year": "2018",
+    "way": "92",
+    "uah_price": "897 465",
+    "usd_price": "33 500",
+    "vin": "5YJ3E1EA3JF006786",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31221781.html"
+  },
+  {
+    "model": "Tesla Model X 90D",
+    "year": "2016",
+    "way": "98",
+    "uah_price": "1 307 352",
+    "usd_price": "48 800",
+    "vin": "5YJXCBE25GF004567",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_30671356.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2013",
+    "way": "103",
+    "uah_price": "687 436",
+    "usd_price": "25 990",
+    "vin": "5YJSA1DNхDFхххх89",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31169627.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "94",
+    "uah_price": "1 005 100",
+    "usd_price": "38 000",
+    "vin": "5YJSA1E2хGFхххх97",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31367894.html"
+  },
+  {
+    "model": "Tesla Model S 70D",
+    "year": "2016",
+    "way": "70",
+    "uah_price": "951 045",
+    "usd_price": "35 500",
+    "vin": "5YJSA1E2хGFхххх69",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_27218326.html"
+  },
+  {
+    "model": "Tesla Model S 90D",
+    "year": "2016",
+    "way": "18",
+    "uah_price": "1 042 131",
+    "usd_price": "38 900",
+    "vin": "5YJSA1E21GF132461",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31242751.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "130",
+    "uah_price": "908 181",
+    "usd_price": "33 900",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31332669.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2013",
+    "way": "187",
+    "uah_price": "621 575",
+    "usd_price": "23 500",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31013827.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM Performance",
+    "year": "2018",
+    "way": "71",
+    "uah_price": "1 190 224",
+    "usd_price": "44 999",
+    "vin": "5YJ3E1EBхJFхххх67",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31216514.html"
+  },
+  {
+    "model": "Tesla Model 3 LR Dual Motor",
+    "year": "2018",
+    "way": "11",
+    "uah_price": "1 322 474",
+    "usd_price": "49 999",
+    "vin": "5YJ3E1EBхJFхххх55",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30740770.html"
+  },
+  {
+    "model": "Tesla Model 3",
+    "year": "2017",
+    "way": "88",
+    "uah_price": "910 860",
+    "usd_price": "34 000",
+    "vin": "5YJ3E1EA2HF001492",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31363643.html"
+  },
+  {
+    "model": "Tesla Model 3 DM Performance",
+    "year": "2018",
+    "way": "98",
+    "uah_price": "1 005 965",
+    "usd_price": "37 550",
+    "vin": "5YJ3E1EBхJFхххх33",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30964119.html"
+  },
+  {
+    "model": "Tesla Model S Restyle 75",
+    "year": "2016",
+    "way": "11",
+    "uah_price": "959 082",
+    "usd_price": "35 800",
+    "vin": "5YJSA1E1XGF158127",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31147595.html"
+  },
+  {
+    "model": "Tesla Model Y LR DM Performance",
+    "year": "2020",
+    "way": "6",
+    "uah_price": "2 089 524",
+    "usd_price": "78 999",
+    "vin": "5YJYGDEFхMFхххх79",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_y_31204492.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM FSD",
+    "year": "2018",
+    "way": "39",
+    "uah_price": "1 184 118",
+    "usd_price": "44 200",
+    "vin": "5YJ3E1EB5JF100998",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30930447.html"
+  },
+  {
+    "model": "Tesla Model 3 Performance",
+    "year": "2021",
+    "way": "7",
+    "uah_price": "1 840 625",
+    "usd_price": "68 706",
+    "vin": "5YJ3E7ECхMFхххх45",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_29708780.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2014",
+    "way": "94",
+    "uah_price": "634 774",
+    "usd_price": "23 999",
+    "vin": "5YJSA1S1хEFхххх88",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_30811049.html"
+  },
+  {
+    "model": "Tesla Model X",
+    "year": "2018",
+    "way": "21",
+    "uah_price": "1 580 610",
+    "usd_price": "59 000",
+    "vin": "5YJXCBE27JF141145",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31370747.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2017",
+    "way": "55",
+    "uah_price": "1 718 986",
+    "usd_price": "64 990",
+    "vin": "5YJSA1E4хHFхххх37",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31200255.html"
+  },
+  {
+    "model": "Tesla Model X P90D Performance",
+    "year": "2016",
+    "way": "58",
+    "uah_price": "2 483 655",
+    "usd_price": "93 900",
+    "vin": "5YJXCCE4хGFхххх02",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31122560.html"
+  },
+  {
+    "model": "Tesla Model 3 Long Range FSD 3.0",
+    "year": "2018",
+    "way": "92",
+    "uah_price": "897 465",
+    "usd_price": "33 500",
+    "vin": "5YJ3E1EA3JF006786",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31221781.html"
+  },
+  {
+    "model": "Tesla Model X 90D",
+    "year": "2016",
+    "way": "98",
+    "uah_price": "1 307 352",
+    "usd_price": "48 800",
+    "vin": "5YJXCBE25GF004567",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_30671356.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2013",
+    "way": "103",
+    "uah_price": "687 436",
+    "usd_price": "25 990",
+    "vin": "5YJSA1DNхDFхххх89",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31169627.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "94",
+    "uah_price": "1 005 100",
+    "usd_price": "38 000",
+    "vin": "5YJSA1E2хGFхххх97",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31367894.html"
+  },
+  {
+    "model": "Tesla Model S 70D",
+    "year": "2016",
+    "way": "70",
+    "uah_price": "951 045",
+    "usd_price": "35 500",
+    "vin": "5YJSA1E2хGFхххх69",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_27218326.html"
+  },
+  {
+    "model": "Tesla Model S 90D",
+    "year": "2016",
+    "way": "18",
+    "uah_price": "1 042 131",
+    "usd_price": "38 900",
+    "vin": "5YJSA1E21GF132461",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31242751.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "130",
+    "uah_price": "908 181",
+    "usd_price": "33 900",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31332669.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2013",
+    "way": "187",
+    "uah_price": "621 575",
+    "usd_price": "23 500",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31013827.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM Performance",
+    "year": "2018",
+    "way": "71",
+    "uah_price": "1 190 224",
+    "usd_price": "44 999",
+    "vin": "5YJ3E1EBхJFхххх67",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31216514.html"
+  },
+  {
+    "model": "Tesla Model 3 LR Dual Motor",
+    "year": "2018",
+    "way": "11",
+    "uah_price": "1 322 474",
+    "usd_price": "49 999",
+    "vin": "5YJ3E1EBхJFхххх55",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30740770.html"
+  },
+  {
+    "model": "Tesla Model 3",
+    "year": "2017",
+    "way": "88",
+    "uah_price": "910 860",
+    "usd_price": "34 000",
+    "vin": "5YJ3E1EA2HF001492",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31363643.html"
+  },
+  {
+    "model": "Tesla Model 3 DM Performance",
+    "year": "2018",
+    "way": "98",
+    "uah_price": "1 005 965",
+    "usd_price": "37 550",
+    "vin": "5YJ3E1EBхJFхххх33",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30964119.html"
+  },
+  {
+    "model": "Tesla Model S Restyle 75",
+    "year": "2016",
+    "way": "11",
+    "uah_price": "959 082",
+    "usd_price": "35 800",
+    "vin": "5YJSA1E1XGF158127",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31147595.html"
+  },
+  {
+    "model": "Tesla Model Y LR DM Performance",
+    "year": "2020",
+    "way": "6",
+    "uah_price": "2 089 524",
+    "usd_price": "78 999",
+    "vin": "5YJYGDEFхMFхххх79",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_y_31204492.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM FSD",
+    "year": "2018",
+    "way": "39",
+    "uah_price": "1 184 118",
+    "usd_price": "44 200",
+    "vin": "5YJ3E1EB5JF100998",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30930447.html"
+  },
+  {
+    "model": "Tesla Model 3 Performance",
+    "year": "2021",
+    "way": "7",
+    "uah_price": "1 840 625",
+    "usd_price": "68 706",
+    "vin": "5YJ3E7ECхMFхххх45",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_29708780.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2014",
+    "way": "94",
+    "uah_price": "634 774",
+    "usd_price": "23 999",
+    "vin": "5YJSA1S1хEFхххх88",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_30811049.html"
+  },
+  {
+    "model": "Tesla Model X",
+    "year": "2018",
+    "way": "21",
+    "uah_price": "1 580 610",
+    "usd_price": "59 000",
+    "vin": "5YJXCBE27JF141145",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31370747.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2017",
+    "way": "55",
+    "uah_price": "1 718 986",
+    "usd_price": "64 990",
+    "vin": "5YJSA1E4хHFхххх37",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31200255.html"
+  },
+  {
+    "model": "Tesla Model X P90D Performance",
+    "year": "2016",
+    "way": "58",
+    "uah_price": "2 483 655",
+    "usd_price": "93 900",
+    "vin": "5YJXCCE4хGFхххх02",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31122560.html"
+  },
+  {
+    "model": "Tesla Model 3 Long Range FSD 3.0",
+    "year": "2018",
+    "way": "92",
+    "uah_price": "897 465",
+    "usd_price": "33 500",
+    "vin": "5YJ3E1EA3JF006786",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31221781.html"
+  },
+  {
+    "model": "Tesla Model X 90D",
+    "year": "2016",
+    "way": "98",
+    "uah_price": "1 307 352",
+    "usd_price": "48 800",
+    "vin": "5YJXCBE25GF004567",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_30671356.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2013",
+    "way": "103",
+    "uah_price": "687 436",
+    "usd_price": "25 990",
+    "vin": "5YJSA1DNхDFхххх89",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31169627.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "94",
+    "uah_price": "1 005 100",
+    "usd_price": "38 000",
+    "vin": "5YJSA1E2хGFхххх97",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31367894.html"
+  },
+  {
+    "model": "Tesla Model S 70D",
+    "year": "2016",
+    "way": "70",
+    "uah_price": "951 045",
+    "usd_price": "35 500",
+    "vin": "5YJSA1E2хGFхххх69",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_27218326.html"
+  },
+  {
+    "model": "Tesla Model S 90D",
+    "year": "2016",
+    "way": "18",
+    "uah_price": "1 042 131",
+    "usd_price": "38 900",
+    "vin": "5YJSA1E21GF132461",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31242751.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "130",
+    "uah_price": "908 181",
+    "usd_price": "33 900",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31332669.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2013",
+    "way": "187",
+    "uah_price": "621 575",
+    "usd_price": "23 500",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31013827.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM Performance",
+    "year": "2018",
+    "way": "71",
+    "uah_price": "1 190 224",
+    "usd_price": "44 999",
+    "vin": "5YJ3E1EBхJFхххх67",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31216514.html"
+  },
+  {
+    "model": "Tesla Model 3 LR Dual Motor",
+    "year": "2018",
+    "way": "11",
+    "uah_price": "1 322 474",
+    "usd_price": "49 999",
+    "vin": "5YJ3E1EBхJFхххх55",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30740770.html"
+  },
+  {
+    "model": "Tesla Model 3",
+    "year": "2017",
+    "way": "88",
+    "uah_price": "910 860",
+    "usd_price": "34 000",
+    "vin": "5YJ3E1EA2HF001492",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31363643.html"
+  },
+  {
+    "model": "Tesla Model 3 DM Performance",
+    "year": "2018",
+    "way": "98",
+    "uah_price": "1 005 965",
+    "usd_price": "37 550",
+    "vin": "5YJ3E1EBхJFхххх33",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30964119.html"
+  },
+  {
+    "model": "Tesla Model S Restyle 75",
+    "year": "2016",
+    "way": "11",
+    "uah_price": "959 082",
+    "usd_price": "35 800",
+    "vin": "5YJSA1E1XGF158127",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31147595.html"
+  },
+  {
+    "model": "Tesla Model Y LR DM Performance",
+    "year": "2020",
+    "way": "6",
+    "uah_price": "2 089 524",
+    "usd_price": "78 999",
+    "vin": "5YJYGDEFхMFхххх79",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_y_31204492.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM FSD",
+    "year": "2018",
+    "way": "39",
+    "uah_price": "1 184 118",
+    "usd_price": "44 200",
+    "vin": "5YJ3E1EB5JF100998",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30930447.html"
+  },
+  {
+    "model": "Tesla Model 3 Performance",
+    "year": "2021",
+    "way": "7",
+    "uah_price": "1 840 625",
+    "usd_price": "68 706",
+    "vin": "5YJ3E7ECхMFхххх45",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_29708780.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2014",
+    "way": "94",
+    "uah_price": "634 774",
+    "usd_price": "23 999",
+    "vin": "5YJSA1S1хEFхххх88",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_30811049.html"
+  },
+  {
+    "model": "Tesla Model X",
+    "year": "2018",
+    "way": "21",
+    "uah_price": "1 580 610",
+    "usd_price": "59 000",
+    "vin": "5YJXCBE27JF141145",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31370747.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2017",
+    "way": "55",
+    "uah_price": "1 718 986",
+    "usd_price": "64 990",
+    "vin": "5YJSA1E4хHFхххх37",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31200255.html"
+  },
+  {
+    "model": "Tesla Model X P90D Performance",
+    "year": "2016",
+    "way": "58",
+    "uah_price": "2 483 655",
+    "usd_price": "93 900",
+    "vin": "5YJXCCE4хGFхххх02",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31122560.html"
+  },
+  {
+    "model": "Tesla Model 3 Long Range FSD 3.0",
+    "year": "2018",
+    "way": "92",
+    "uah_price": "897 465",
+    "usd_price": "33 500",
+    "vin": "5YJ3E1EA3JF006786",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31221781.html"
+  },
+  {
+    "model": "Tesla Model X 90D",
+    "year": "2016",
+    "way": "98",
+    "uah_price": "1 307 352",
+    "usd_price": "48 800",
+    "vin": "5YJXCBE25GF004567",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_30671356.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2013",
+    "way": "103",
+    "uah_price": "687 436",
+    "usd_price": "25 990",
+    "vin": "5YJSA1DNхDFхххх89",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31169627.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "94",
+    "uah_price": "1 005 100",
+    "usd_price": "38 000",
+    "vin": "5YJSA1E2хGFхххх97",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31367894.html"
+  },
+  {
+    "model": "Tesla Model S 70D",
+    "year": "2016",
+    "way": "70",
+    "uah_price": "951 045",
+    "usd_price": "35 500",
+    "vin": "5YJSA1E2хGFхххх69",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_27218326.html"
+  },
+  {
+    "model": "Tesla Model S 90D",
+    "year": "2016",
+    "way": "18",
+    "uah_price": "1 042 131",
+    "usd_price": "38 900",
+    "vin": "5YJSA1E21GF132461",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31242751.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "130",
+    "uah_price": "908 181",
+    "usd_price": "33 900",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31332669.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2013",
+    "way": "187",
+    "uah_price": "621 575",
+    "usd_price": "23 500",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31013827.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM Performance",
+    "year": "2018",
+    "way": "71",
+    "uah_price": "1 190 224",
+    "usd_price": "44 999",
+    "vin": "5YJ3E1EBхJFхххх67",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31216514.html"
+  },
+  {
+    "model": "Tesla Model 3 LR Dual Motor",
+    "year": "2018",
+    "way": "11",
+    "uah_price": "1 322 474",
+    "usd_price": "49 999",
+    "vin": "5YJ3E1EBхJFхххх55",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30740770.html"
+  },
+  {
+    "model": "Tesla Model 3",
+    "year": "2017",
+    "way": "88",
+    "uah_price": "910 860",
+    "usd_price": "34 000",
+    "vin": "5YJ3E1EA2HF001492",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31363643.html"
+  },
+  {
+    "model": "Tesla Model 3 DM Performance",
+    "year": "2018",
+    "way": "98",
+    "uah_price": "1 005 965",
+    "usd_price": "37 550",
+    "vin": "5YJ3E1EBхJFхххх33",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30964119.html"
+  },
+  {
+    "model": "Tesla Model S Restyle 75",
+    "year": "2016",
+    "way": "11",
+    "uah_price": "959 082",
+    "usd_price": "35 800",
+    "vin": "5YJSA1E1XGF158127",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31147595.html"
+  },
+  {
+    "model": "Tesla Model Y LR DM Performance",
+    "year": "2020",
+    "way": "6",
+    "uah_price": "2 089 524",
+    "usd_price": "78 999",
+    "vin": "5YJYGDEFхMFхххх79",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_y_31204492.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM FSD",
+    "year": "2018",
+    "way": "39",
+    "uah_price": "1 184 118",
+    "usd_price": "44 200",
+    "vin": "5YJ3E1EB5JF100998",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30930447.html"
+  },
+  {
+    "model": "Tesla Model 3 Performance",
+    "year": "2021",
+    "way": "7",
+    "uah_price": "1 840 625",
+    "usd_price": "68 706",
+    "vin": "5YJ3E7ECхMFхххх45",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_29708780.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2014",
+    "way": "94",
+    "uah_price": "634 774",
+    "usd_price": "23 999",
+    "vin": "5YJSA1S1хEFхххх88",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_30811049.html"
+  },
+  {
+    "model": "Tesla Model X",
+    "year": "2018",
+    "way": "21",
+    "uah_price": "1 580 610",
+    "usd_price": "59 000",
+    "vin": "5YJXCBE27JF141145",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31370747.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2017",
+    "way": "55",
+    "uah_price": "1 718 986",
+    "usd_price": "64 990",
+    "vin": "5YJSA1E4хHFхххх37",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31200255.html"
+  },
+  {
+    "model": "Tesla Model X P90D Performance",
+    "year": "2016",
+    "way": "58",
+    "uah_price": "2 483 655",
+    "usd_price": "93 900",
+    "vin": "5YJXCCE4хGFхххх02",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31122560.html"
+  },
+  {
+    "model": "Tesla Model 3 Long Range FSD 3.0",
+    "year": "2018",
+    "way": "92",
+    "uah_price": "897 465",
+    "usd_price": "33 500",
+    "vin": "5YJ3E1EA3JF006786",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31221781.html"
+  },
+  {
+    "model": "Tesla Model X 90D",
+    "year": "2016",
+    "way": "98",
+    "uah_price": "1 307 352",
+    "usd_price": "48 800",
+    "vin": "5YJXCBE25GF004567",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_30671356.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2013",
+    "way": "103",
+    "uah_price": "687 436",
+    "usd_price": "25 990",
+    "vin": "5YJSA1DNхDFхххх89",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31169627.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "94",
+    "uah_price": "1 005 100",
+    "usd_price": "38 000",
+    "vin": "5YJSA1E2хGFхххх97",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31367894.html"
+  },
+  {
+    "model": "Tesla Model S 70D",
+    "year": "2016",
+    "way": "70",
+    "uah_price": "951 045",
+    "usd_price": "35 500",
+    "vin": "5YJSA1E2хGFхххх69",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_27218326.html"
+  },
+  {
+    "model": "Tesla Model S 90D",
+    "year": "2016",
+    "way": "18",
+    "uah_price": "1 042 131",
+    "usd_price": "38 900",
+    "vin": "5YJSA1E21GF132461",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31242751.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "130",
+    "uah_price": "908 181",
+    "usd_price": "33 900",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31332669.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2013",
+    "way": "187",
+    "uah_price": "621 575",
+    "usd_price": "23 500",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31013827.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM Performance",
+    "year": "2018",
+    "way": "71",
+    "uah_price": "1 190 224",
+    "usd_price": "44 999",
+    "vin": "5YJ3E1EBхJFхххх67",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31216514.html"
+  },
+  {
+    "model": "Tesla Model 3 LR Dual Motor",
+    "year": "2018",
+    "way": "11",
+    "uah_price": "1 322 474",
+    "usd_price": "49 999",
+    "vin": "5YJ3E1EBхJFхххх55",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30740770.html"
+  },
+  {
+    "model": "Tesla Model 3",
+    "year": "2017",
+    "way": "88",
+    "uah_price": "910 860",
+    "usd_price": "34 000",
+    "vin": "5YJ3E1EA2HF001492",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31363643.html"
+  },
+  {
+    "model": "Tesla Model 3 DM Performance",
+    "year": "2018",
+    "way": "98",
+    "uah_price": "1 005 965",
+    "usd_price": "37 550",
+    "vin": "5YJ3E1EBхJFхххх33",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30964119.html"
+  },
+  {
+    "model": "Tesla Model S Restyle 75",
+    "year": "2016",
+    "way": "11",
+    "uah_price": "959 082",
+    "usd_price": "35 800",
+    "vin": "5YJSA1E1XGF158127",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31147595.html"
+  },
+  {
+    "model": "Tesla Model Y LR DM Performance",
+    "year": "2020",
+    "way": "6",
+    "uah_price": "2 089 524",
+    "usd_price": "78 999",
+    "vin": "5YJYGDEFхMFхххх79",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_y_31204492.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM FSD",
+    "year": "2018",
+    "way": "39",
+    "uah_price": "1 184 118",
+    "usd_price": "44 200",
+    "vin": "5YJ3E1EB5JF100998",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30930447.html"
+  },
+  {
+    "model": "Tesla Model 3 Performance",
+    "year": "2021",
+    "way": "7",
+    "uah_price": "1 840 625",
+    "usd_price": "68 706",
+    "vin": "5YJ3E7ECхMFхххх45",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_29708780.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2014",
+    "way": "94",
+    "uah_price": "634 774",
+    "usd_price": "23 999",
+    "vin": "5YJSA1S1хEFхххх88",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_30811049.html"
+  },
+  {
+    "model": "Tesla Model X",
+    "year": "2018",
+    "way": "21",
+    "uah_price": "1 580 610",
+    "usd_price": "59 000",
+    "vin": "5YJXCBE27JF141145",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31370747.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2017",
+    "way": "55",
+    "uah_price": "1 718 986",
+    "usd_price": "64 990",
+    "vin": "5YJSA1E4хHFхххх37",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31200255.html"
+  },
+  {
+    "model": "Tesla Model X P90D Performance",
+    "year": "2016",
+    "way": "58",
+    "uah_price": "2 483 655",
+    "usd_price": "93 900",
+    "vin": "5YJXCCE4хGFхххх02",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31122560.html"
+  },
+  {
+    "model": "Tesla Model 3 Long Range FSD 3.0",
+    "year": "2018",
+    "way": "92",
+    "uah_price": "897 465",
+    "usd_price": "33 500",
+    "vin": "5YJ3E1EA3JF006786",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31221781.html"
+  },
+  {
+    "model": "Tesla Model X 90D",
+    "year": "2016",
+    "way": "98",
+    "uah_price": "1 307 352",
+    "usd_price": "48 800",
+    "vin": "5YJXCBE25GF004567",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_30671356.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2013",
+    "way": "103",
+    "uah_price": "687 436",
+    "usd_price": "25 990",
+    "vin": "5YJSA1DNхDFхххх89",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31169627.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "94",
+    "uah_price": "1 005 100",
+    "usd_price": "38 000",
+    "vin": "5YJSA1E2хGFхххх97",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31367894.html"
+  },
+  {
+    "model": "Tesla Model S 70D",
+    "year": "2016",
+    "way": "70",
+    "uah_price": "951 045",
+    "usd_price": "35 500",
+    "vin": "5YJSA1E2хGFхххх69",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_27218326.html"
+  },
+  {
+    "model": "Tesla Model S 90D",
+    "year": "2016",
+    "way": "18",
+    "uah_price": "1 042 131",
+    "usd_price": "38 900",
+    "vin": "5YJSA1E21GF132461",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31242751.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "130",
+    "uah_price": "908 181",
+    "usd_price": "33 900",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31332669.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2013",
+    "way": "187",
+    "uah_price": "621 575",
+    "usd_price": "23 500",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31013827.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM Performance",
+    "year": "2018",
+    "way": "71",
+    "uah_price": "1 190 224",
+    "usd_price": "44 999",
+    "vin": "5YJ3E1EBхJFхххх67",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31216514.html"
+  },
+  {
+    "model": "Tesla Model 3 LR Dual Motor",
+    "year": "2018",
+    "way": "11",
+    "uah_price": "1 322 474",
+    "usd_price": "49 999",
+    "vin": "5YJ3E1EBхJFхххх55",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30740770.html"
+  },
+  {
+    "model": "Tesla Model 3",
+    "year": "2017",
+    "way": "88",
+    "uah_price": "910 860",
+    "usd_price": "34 000",
+    "vin": "5YJ3E1EA2HF001492",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31363643.html"
+  },
+  {
+    "model": "Tesla Model 3 DM Performance",
+    "year": "2018",
+    "way": "98",
+    "uah_price": "1 005 965",
+    "usd_price": "37 550",
+    "vin": "5YJ3E1EBхJFхххх33",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30964119.html"
+  },
+  {
+    "model": "Tesla Model S Restyle 75",
+    "year": "2016",
+    "way": "11",
+    "uah_price": "959 082",
+    "usd_price": "35 800",
+    "vin": "5YJSA1E1XGF158127",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31147595.html"
+  },
+  {
+    "model": "Tesla Model Y LR DM Performance",
+    "year": "2020",
+    "way": "6",
+    "uah_price": "2 089 524",
+    "usd_price": "78 999",
+    "vin": "5YJYGDEFхMFхххх79",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_y_31204492.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM FSD",
+    "year": "2018",
+    "way": "39",
+    "uah_price": "1 184 118",
+    "usd_price": "44 200",
+    "vin": "5YJ3E1EB5JF100998",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30930447.html"
+  },
+  {
+    "model": "Tesla Model 3 Performance",
+    "year": "2021",
+    "way": "7",
+    "uah_price": "1 840 625",
+    "usd_price": "68 706",
+    "vin": "5YJ3E7ECхMFхххх45",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_29708780.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2014",
+    "way": "94",
+    "uah_price": "634 774",
+    "usd_price": "23 999",
+    "vin": "5YJSA1S1хEFхххх88",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_30811049.html"
+  },
+  {
+    "model": "Tesla Model X",
+    "year": "2018",
+    "way": "21",
+    "uah_price": "1 580 610",
+    "usd_price": "59 000",
+    "vin": "5YJXCBE27JF141145",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31370747.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2017",
+    "way": "55",
+    "uah_price": "1 718 986",
+    "usd_price": "64 990",
+    "vin": "5YJSA1E4хHFхххх37",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31200255.html"
+  },
+  {
+    "model": "Tesla Model X P90D Performance",
+    "year": "2016",
+    "way": "58",
+    "uah_price": "2 483 655",
+    "usd_price": "93 900",
+    "vin": "5YJXCCE4хGFхххх02",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31122560.html"
+  },
+  {
+    "model": "Tesla Model 3 Long Range FSD 3.0",
+    "year": "2018",
+    "way": "92",
+    "uah_price": "897 465",
+    "usd_price": "33 500",
+    "vin": "5YJ3E1EA3JF006786",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31221781.html"
+  },
+  {
+    "model": "Tesla Model X 90D",
+    "year": "2016",
+    "way": "98",
+    "uah_price": "1 307 352",
+    "usd_price": "48 800",
+    "vin": "5YJXCBE25GF004567",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_30671356.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2013",
+    "way": "103",
+    "uah_price": "687 436",
+    "usd_price": "25 990",
+    "vin": "5YJSA1DNхDFхххх89",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31169627.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "94",
+    "uah_price": "1 005 100",
+    "usd_price": "38 000",
+    "vin": "5YJSA1E2хGFхххх97",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31367894.html"
+  },
+  {
+    "model": "Tesla Model S 70D",
+    "year": "2016",
+    "way": "70",
+    "uah_price": "951 045",
+    "usd_price": "35 500",
+    "vin": "5YJSA1E2хGFхххх69",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_27218326.html"
+  },
+  {
+    "model": "Tesla Model S 90D",
+    "year": "2016",
+    "way": "18",
+    "uah_price": "1 042 131",
+    "usd_price": "38 900",
+    "vin": "5YJSA1E21GF132461",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31242751.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "130",
+    "uah_price": "908 181",
+    "usd_price": "33 900",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31332669.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2013",
+    "way": "187",
+    "uah_price": "621 575",
+    "usd_price": "23 500",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31013827.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM Performance",
+    "year": "2018",
+    "way": "71",
+    "uah_price": "1 190 224",
+    "usd_price": "44 999",
+    "vin": "5YJ3E1EBхJFхххх67",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31216514.html"
+  },
+  {
+    "model": "Tesla Model 3 LR Dual Motor",
+    "year": "2018",
+    "way": "11",
+    "uah_price": "1 322 474",
+    "usd_price": "49 999",
+    "vin": "5YJ3E1EBхJFхххх55",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30740770.html"
+  },
+  {
+    "model": "Tesla Model 3",
+    "year": "2017",
+    "way": "88",
+    "uah_price": "910 860",
+    "usd_price": "34 000",
+    "vin": "5YJ3E1EA2HF001492",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31363643.html"
+  },
+  {
+    "model": "Tesla Model 3 DM Performance",
+    "year": "2018",
+    "way": "98",
+    "uah_price": "1 005 965",
+    "usd_price": "37 550",
+    "vin": "5YJ3E1EBхJFхххх33",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30964119.html"
+  },
+  {
+    "model": "Tesla Model S Restyle 75",
+    "year": "2016",
+    "way": "11",
+    "uah_price": "959 082",
+    "usd_price": "35 800",
+    "vin": "5YJSA1E1XGF158127",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31147595.html"
+  },
+  {
+    "model": "Tesla Model Y LR DM Performance",
+    "year": "2020",
+    "way": "6",
+    "uah_price": "2 089 524",
+    "usd_price": "78 999",
+    "vin": "5YJYGDEFхMFхххх79",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_y_31204492.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM FSD",
+    "year": "2018",
+    "way": "39",
+    "uah_price": "1 184 118",
+    "usd_price": "44 200",
+    "vin": "5YJ3E1EB5JF100998",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30930447.html"
+  },
+  {
+    "model": "Tesla Model 3 Performance",
+    "year": "2021",
+    "way": "7",
+    "uah_price": "1 840 625",
+    "usd_price": "68 706",
+    "vin": "5YJ3E7ECхMFхххх45",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_29708780.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2014",
+    "way": "94",
+    "uah_price": "634 774",
+    "usd_price": "23 999",
+    "vin": "5YJSA1S1хEFхххх88",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_30811049.html"
+  },
+  {
+    "model": "Tesla Model X",
+    "year": "2018",
+    "way": "21",
+    "uah_price": "1 580 610",
+    "usd_price": "59 000",
+    "vin": "5YJXCBE27JF141145",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31370747.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2017",
+    "way": "55",
+    "uah_price": "1 718 986",
+    "usd_price": "64 990",
+    "vin": "5YJSA1E4хHFхххх37",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31200255.html"
+  },
+  {
+    "model": "Tesla Model X P90D Performance",
+    "year": "2016",
+    "way": "58",
+    "uah_price": "2 483 655",
+    "usd_price": "93 900",
+    "vin": "5YJXCCE4хGFхххх02",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31122560.html"
+  },
+  {
+    "model": "Tesla Model 3 Long Range FSD 3.0",
+    "year": "2018",
+    "way": "92",
+    "uah_price": "897 465",
+    "usd_price": "33 500",
+    "vin": "5YJ3E1EA3JF006786",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31221781.html"
+  },
+  {
+    "model": "Tesla Model X 90D",
+    "year": "2016",
+    "way": "98",
+    "uah_price": "1 307 352",
+    "usd_price": "48 800",
+    "vin": "5YJXCBE25GF004567",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_30671356.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2013",
+    "way": "103",
+    "uah_price": "687 436",
+    "usd_price": "25 990",
+    "vin": "5YJSA1DNхDFхххх89",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31169627.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "94",
+    "uah_price": "1 005 100",
+    "usd_price": "38 000",
+    "vin": "5YJSA1E2хGFхххх97",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31367894.html"
+  },
+  {
+    "model": "Tesla Model S 70D",
+    "year": "2016",
+    "way": "70",
+    "uah_price": "951 045",
+    "usd_price": "35 500",
+    "vin": "5YJSA1E2хGFхххх69",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_27218326.html"
+  },
+  {
+    "model": "Tesla Model S 90D",
+    "year": "2016",
+    "way": "18",
+    "uah_price": "1 042 131",
+    "usd_price": "38 900",
+    "vin": "5YJSA1E21GF132461",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31242751.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "130",
+    "uah_price": "908 181",
+    "usd_price": "33 900",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31332669.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2013",
+    "way": "187",
+    "uah_price": "621 575",
+    "usd_price": "23 500",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31013827.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM Performance",
+    "year": "2018",
+    "way": "71",
+    "uah_price": "1 190 224",
+    "usd_price": "44 999",
+    "vin": "5YJ3E1EBхJFхххх67",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31216514.html"
+  },
+  {
+    "model": "Tesla Model 3 LR Dual Motor",
+    "year": "2018",
+    "way": "11",
+    "uah_price": "1 322 474",
+    "usd_price": "49 999",
+    "vin": "5YJ3E1EBхJFхххх55",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30740770.html"
+  },
+  {
+    "model": "Tesla Model 3",
+    "year": "2017",
+    "way": "88",
+    "uah_price": "910 860",
+    "usd_price": "34 000",
+    "vin": "5YJ3E1EA2HF001492",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31363643.html"
+  },
+  {
+    "model": "Tesla Model 3 DM Performance",
+    "year": "2018",
+    "way": "98",
+    "uah_price": "1 005 965",
+    "usd_price": "37 550",
+    "vin": "5YJ3E1EBхJFхххх33",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30964119.html"
+  },
+  {
+    "model": "Tesla Model S Restyle 75",
+    "year": "2016",
+    "way": "11",
+    "uah_price": "959 082",
+    "usd_price": "35 800",
+    "vin": "5YJSA1E1XGF158127",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31147595.html"
+  },
+  {
+    "model": "Tesla Model Y LR DM Performance",
+    "year": "2020",
+    "way": "6",
+    "uah_price": "2 089 524",
+    "usd_price": "78 999",
+    "vin": "5YJYGDEFхMFхххх79",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_y_31204492.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM FSD",
+    "year": "2018",
+    "way": "39",
+    "uah_price": "1 184 118",
+    "usd_price": "44 200",
+    "vin": "5YJ3E1EB5JF100998",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30930447.html"
+  },
+  {
+    "model": "Tesla Model 3 Performance",
+    "year": "2021",
+    "way": "7",
+    "uah_price": "1 840 625",
+    "usd_price": "68 706",
+    "vin": "5YJ3E7ECхMFхххх45",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_29708780.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2014",
+    "way": "94",
+    "uah_price": "634 774",
+    "usd_price": "23 999",
+    "vin": "5YJSA1S1хEFхххх88",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_30811049.html"
+  },
+  {
+    "model": "Tesla Model X",
+    "year": "2018",
+    "way": "21",
+    "uah_price": "1 580 610",
+    "usd_price": "59 000",
+    "vin": "5YJXCBE27JF141145",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31370747.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2017",
+    "way": "55",
+    "uah_price": "1 718 986",
+    "usd_price": "64 990",
+    "vin": "5YJSA1E4хHFхххх37",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31200255.html"
+  },
+  {
+    "model": "Tesla Model X P90D Performance",
+    "year": "2016",
+    "way": "58",
+    "uah_price": "2 483 655",
+    "usd_price": "93 900",
+    "vin": "5YJXCCE4хGFхххх02",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31122560.html"
+  },
+  {
+    "model": "Tesla Model 3 Long Range FSD 3.0",
+    "year": "2018",
+    "way": "92",
+    "uah_price": "897 465",
+    "usd_price": "33 500",
+    "vin": "5YJ3E1EA3JF006786",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31221781.html"
+  },
+  {
+    "model": "Tesla Model X 90D",
+    "year": "2016",
+    "way": "98",
+    "uah_price": "1 307 352",
+    "usd_price": "48 800",
+    "vin": "5YJXCBE25GF004567",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_30671356.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2013",
+    "way": "103",
+    "uah_price": "687 436",
+    "usd_price": "25 990",
+    "vin": "5YJSA1DNхDFхххх89",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31169627.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "94",
+    "uah_price": "1 005 100",
+    "usd_price": "38 000",
+    "vin": "5YJSA1E2хGFхххх97",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31367894.html"
+  },
+  {
+    "model": "Tesla Model S 70D",
+    "year": "2016",
+    "way": "70",
+    "uah_price": "951 045",
+    "usd_price": "35 500",
+    "vin": "5YJSA1E2хGFхххх69",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_27218326.html"
+  },
+  {
+    "model": "Tesla Model S 90D",
+    "year": "2016",
+    "way": "18",
+    "uah_price": "1 042 131",
+    "usd_price": "38 900",
+    "vin": "5YJSA1E21GF132461",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31242751.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "130",
+    "uah_price": "908 181",
+    "usd_price": "33 900",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31332669.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2013",
+    "way": "187",
+    "uah_price": "621 575",
+    "usd_price": "23 500",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31013827.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM Performance",
+    "year": "2018",
+    "way": "71",
+    "uah_price": "1 190 224",
+    "usd_price": "44 999",
+    "vin": "5YJ3E1EBхJFхххх67",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31216514.html"
+  },
+  {
+    "model": "Tesla Model 3 LR Dual Motor",
+    "year": "2018",
+    "way": "11",
+    "uah_price": "1 322 474",
+    "usd_price": "49 999",
+    "vin": "5YJ3E1EBхJFхххх55",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30740770.html"
+  },
+  {
+    "model": "Tesla Model 3",
+    "year": "2017",
+    "way": "88",
+    "uah_price": "910 860",
+    "usd_price": "34 000",
+    "vin": "5YJ3E1EA2HF001492",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31363643.html"
+  },
+  {
+    "model": "Tesla Model 3 DM Performance",
+    "year": "2018",
+    "way": "98",
+    "uah_price": "1 005 965",
+    "usd_price": "37 550",
+    "vin": "5YJ3E1EBхJFхххх33",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30964119.html"
+  },
+  {
+    "model": "Tesla Model S Restyle 75",
+    "year": "2016",
+    "way": "11",
+    "uah_price": "959 082",
+    "usd_price": "35 800",
+    "vin": "5YJSA1E1XGF158127",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31147595.html"
+  },
+  {
+    "model": "Tesla Model Y LR DM Performance",
+    "year": "2020",
+    "way": "6",
+    "uah_price": "2 089 524",
+    "usd_price": "78 999",
+    "vin": "5YJYGDEFхMFхххх79",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_y_31204492.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM FSD",
+    "year": "2018",
+    "way": "39",
+    "uah_price": "1 184 118",
+    "usd_price": "44 200",
+    "vin": "5YJ3E1EB5JF100998",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30930447.html"
+  },
+  {
+    "model": "Tesla Model 3 Performance",
+    "year": "2021",
+    "way": "7",
+    "uah_price": "1 840 625",
+    "usd_price": "68 706",
+    "vin": "5YJ3E7ECхMFхххх45",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_29708780.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2014",
+    "way": "94",
+    "uah_price": "634 774",
+    "usd_price": "23 999",
+    "vin": "5YJSA1S1хEFхххх88",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_30811049.html"
+  },
+  {
+    "model": "Tesla Model X",
+    "year": "2018",
+    "way": "21",
+    "uah_price": "1 580 610",
+    "usd_price": "59 000",
+    "vin": "5YJXCBE27JF141145",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31370747.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2017",
+    "way": "55",
+    "uah_price": "1 718 986",
+    "usd_price": "64 990",
+    "vin": "5YJSA1E4хHFхххх37",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31200255.html"
+  },
+  {
+    "model": "Tesla Model X P90D Performance",
+    "year": "2016",
+    "way": "58",
+    "uah_price": "2 483 655",
+    "usd_price": "93 900",
+    "vin": "5YJXCCE4хGFхххх02",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31122560.html"
+  },
+  {
+    "model": "Tesla Model 3 Long Range FSD 3.0",
+    "year": "2018",
+    "way": "92",
+    "uah_price": "897 465",
+    "usd_price": "33 500",
+    "vin": "5YJ3E1EA3JF006786",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31221781.html"
+  },
+  {
+    "model": "Tesla Model X 90D",
+    "year": "2016",
+    "way": "98",
+    "uah_price": "1 307 352",
+    "usd_price": "48 800",
+    "vin": "5YJXCBE25GF004567",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_30671356.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2013",
+    "way": "103",
+    "uah_price": "687 436",
+    "usd_price": "25 990",
+    "vin": "5YJSA1DNхDFхххх89",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31169627.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "94",
+    "uah_price": "1 005 100",
+    "usd_price": "38 000",
+    "vin": "5YJSA1E2хGFхххх97",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31367894.html"
+  },
+  {
+    "model": "Tesla Model S 70D",
+    "year": "2016",
+    "way": "70",
+    "uah_price": "951 045",
+    "usd_price": "35 500",
+    "vin": "5YJSA1E2хGFхххх69",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_27218326.html"
+  },
+  {
+    "model": "Tesla Model S 90D",
+    "year": "2016",
+    "way": "18",
+    "uah_price": "1 042 131",
+    "usd_price": "38 900",
+    "vin": "5YJSA1E21GF132461",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31242751.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "130",
+    "uah_price": "908 181",
+    "usd_price": "33 900",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31332669.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2013",
+    "way": "187",
+    "uah_price": "621 575",
+    "usd_price": "23 500",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31013827.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM Performance",
+    "year": "2018",
+    "way": "71",
+    "uah_price": "1 190 224",
+    "usd_price": "44 999",
+    "vin": "5YJ3E1EBхJFхххх67",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31216514.html"
+  },
+  {
+    "model": "Tesla Model 3 LR Dual Motor",
+    "year": "2018",
+    "way": "11",
+    "uah_price": "1 322 474",
+    "usd_price": "49 999",
+    "vin": "5YJ3E1EBхJFхххх55",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30740770.html"
+  },
+  {
+    "model": "Tesla Model 3",
+    "year": "2017",
+    "way": "88",
+    "uah_price": "910 860",
+    "usd_price": "34 000",
+    "vin": "5YJ3E1EA2HF001492",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31363643.html"
+  },
+  {
+    "model": "Tesla Model 3 DM Performance",
+    "year": "2018",
+    "way": "98",
+    "uah_price": "1 005 965",
+    "usd_price": "37 550",
+    "vin": "5YJ3E1EBхJFхххх33",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30964119.html"
+  },
+  {
+    "model": "Tesla Model S Restyle 75",
+    "year": "2016",
+    "way": "11",
+    "uah_price": "959 082",
+    "usd_price": "35 800",
+    "vin": "5YJSA1E1XGF158127",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31147595.html"
+  },
+  {
+    "model": "Tesla Model Y LR DM Performance",
+    "year": "2020",
+    "way": "6",
+    "uah_price": "2 089 524",
+    "usd_price": "78 999",
+    "vin": "5YJYGDEFхMFхххх79",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_y_31204492.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM FSD",
+    "year": "2018",
+    "way": "39",
+    "uah_price": "1 184 118",
+    "usd_price": "44 200",
+    "vin": "5YJ3E1EB5JF100998",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30930447.html"
+  },
+  {
+    "model": "Tesla Model 3 Performance",
+    "year": "2021",
+    "way": "7",
+    "uah_price": "1 840 625",
+    "usd_price": "68 706",
+    "vin": "5YJ3E7ECхMFхххх45",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_29708780.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2014",
+    "way": "94",
+    "uah_price": "634 774",
+    "usd_price": "23 999",
+    "vin": "5YJSA1S1хEFхххх88",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_30811049.html"
+  },
+  {
+    "model": "Tesla Model X",
+    "year": "2018",
+    "way": "21",
+    "uah_price": "1 580 610",
+    "usd_price": "59 000",
+    "vin": "5YJXCBE27JF141145",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31370747.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2017",
+    "way": "55",
+    "uah_price": "1 718 986",
+    "usd_price": "64 990",
+    "vin": "5YJSA1E4хHFхххх37",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31200255.html"
+  },
+  {
+    "model": "Tesla Model X P90D Performance",
+    "year": "2016",
+    "way": "58",
+    "uah_price": "2 483 655",
+    "usd_price": "93 900",
+    "vin": "5YJXCCE4хGFхххх02",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31122560.html"
+  },
+  {
+    "model": "Tesla Model 3 Long Range FSD 3.0",
+    "year": "2018",
+    "way": "92",
+    "uah_price": "897 465",
+    "usd_price": "33 500",
+    "vin": "5YJ3E1EA3JF006786",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31221781.html"
+  },
+  {
+    "model": "Tesla Model X 90D",
+    "year": "2016",
+    "way": "98",
+    "uah_price": "1 307 352",
+    "usd_price": "48 800",
+    "vin": "5YJXCBE25GF004567",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_30671356.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2013",
+    "way": "103",
+    "uah_price": "687 436",
+    "usd_price": "25 990",
+    "vin": "5YJSA1DNхDFхххх89",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31169627.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "94",
+    "uah_price": "1 005 100",
+    "usd_price": "38 000",
+    "vin": "5YJSA1E2хGFхххх97",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31367894.html"
+  },
+  {
+    "model": "Tesla Model S 70D",
+    "year": "2016",
+    "way": "70",
+    "uah_price": "951 045",
+    "usd_price": "35 500",
+    "vin": "5YJSA1E2хGFхххх69",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_27218326.html"
+  },
+  {
+    "model": "Tesla Model S 90D",
+    "year": "2016",
+    "way": "18",
+    "uah_price": "1 042 131",
+    "usd_price": "38 900",
+    "vin": "5YJSA1E21GF132461",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31242751.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "130",
+    "uah_price": "908 181",
+    "usd_price": "33 900",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31332669.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2013",
+    "way": "187",
+    "uah_price": "621 575",
+    "usd_price": "23 500",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31013827.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM Performance",
+    "year": "2018",
+    "way": "71",
+    "uah_price": "1 190 224",
+    "usd_price": "44 999",
+    "vin": "5YJ3E1EBхJFхххх67",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31216514.html"
+  },
+  {
+    "model": "Tesla Model 3 LR Dual Motor",
+    "year": "2018",
+    "way": "11",
+    "uah_price": "1 322 474",
+    "usd_price": "49 999",
+    "vin": "5YJ3E1EBхJFхххх55",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30740770.html"
+  },
+  {
+    "model": "Tesla Model 3",
+    "year": "2017",
+    "way": "88",
+    "uah_price": "910 860",
+    "usd_price": "34 000",
+    "vin": "5YJ3E1EA2HF001492",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31363643.html"
+  },
+  {
+    "model": "Tesla Model 3 DM Performance",
+    "year": "2018",
+    "way": "98",
+    "uah_price": "1 005 965",
+    "usd_price": "37 550",
+    "vin": "5YJ3E1EBхJFхххх33",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30964119.html"
+  },
+  {
+    "model": "Tesla Model S Restyle 75",
+    "year": "2016",
+    "way": "11",
+    "uah_price": "959 082",
+    "usd_price": "35 800",
+    "vin": "5YJSA1E1XGF158127",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31147595.html"
+  },
+  {
+    "model": "Tesla Model Y LR DM Performance",
+    "year": "2020",
+    "way": "6",
+    "uah_price": "2 089 524",
+    "usd_price": "78 999",
+    "vin": "5YJYGDEFхMFхххх79",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_y_31204492.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM FSD",
+    "year": "2018",
+    "way": "39",
+    "uah_price": "1 184 118",
+    "usd_price": "44 200",
+    "vin": "5YJ3E1EB5JF100998",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30930447.html"
+  },
+  {
+    "model": "Tesla Model 3 Performance",
+    "year": "2021",
+    "way": "7",
+    "uah_price": "1 840 625",
+    "usd_price": "68 706",
+    "vin": "5YJ3E7ECхMFхххх45",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_29708780.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2014",
+    "way": "94",
+    "uah_price": "634 774",
+    "usd_price": "23 999",
+    "vin": "5YJSA1S1хEFхххх88",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_30811049.html"
+  },
+  {
+    "model": "Tesla Model X",
+    "year": "2018",
+    "way": "21",
+    "uah_price": "1 580 610",
+    "usd_price": "59 000",
+    "vin": "5YJXCBE27JF141145",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31370747.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2017",
+    "way": "55",
+    "uah_price": "1 718 986",
+    "usd_price": "64 990",
+    "vin": "5YJSA1E4хHFхххх37",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31200255.html"
+  },
+  {
+    "model": "Tesla Model X P90D Performance",
+    "year": "2016",
+    "way": "58",
+    "uah_price": "2 483 655",
+    "usd_price": "93 900",
+    "vin": "5YJXCCE4хGFхххх02",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31122560.html"
+  },
+  {
+    "model": "Tesla Model 3 Long Range FSD 3.0",
+    "year": "2018",
+    "way": "92",
+    "uah_price": "897 465",
+    "usd_price": "33 500",
+    "vin": "5YJ3E1EA3JF006786",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31221781.html"
+  },
+  {
+    "model": "Tesla Model X 90D",
+    "year": "2016",
+    "way": "98",
+    "uah_price": "1 307 352",
+    "usd_price": "48 800",
+    "vin": "5YJXCBE25GF004567",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_30671356.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2013",
+    "way": "103",
+    "uah_price": "687 436",
+    "usd_price": "25 990",
+    "vin": "5YJSA1DNхDFхххх89",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31169627.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "94",
+    "uah_price": "1 005 100",
+    "usd_price": "38 000",
+    "vin": "5YJSA1E2хGFхххх97",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31367894.html"
+  },
+  {
+    "model": "Tesla Model S 70D",
+    "year": "2016",
+    "way": "70",
+    "uah_price": "951 045",
+    "usd_price": "35 500",
+    "vin": "5YJSA1E2хGFхххх69",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_27218326.html"
+  },
+  {
+    "model": "Tesla Model S 90D",
+    "year": "2016",
+    "way": "18",
+    "uah_price": "1 042 131",
+    "usd_price": "38 900",
+    "vin": "5YJSA1E21GF132461",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31242751.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "130",
+    "uah_price": "908 181",
+    "usd_price": "33 900",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31332669.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2013",
+    "way": "187",
+    "uah_price": "621 575",
+    "usd_price": "23 500",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31013827.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM Performance",
+    "year": "2018",
+    "way": "71",
+    "uah_price": "1 190 224",
+    "usd_price": "44 999",
+    "vin": "5YJ3E1EBхJFхххх67",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31216514.html"
+  },
+  {
+    "model": "Tesla Model 3 LR Dual Motor",
+    "year": "2018",
+    "way": "11",
+    "uah_price": "1 322 474",
+    "usd_price": "49 999",
+    "vin": "5YJ3E1EBхJFхххх55",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30740770.html"
+  },
+  {
+    "model": "Tesla Model 3",
+    "year": "2017",
+    "way": "88",
+    "uah_price": "910 860",
+    "usd_price": "34 000",
+    "vin": "5YJ3E1EA2HF001492",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31363643.html"
+  },
+  {
+    "model": "Tesla Model 3 DM Performance",
+    "year": "2018",
+    "way": "98",
+    "uah_price": "1 005 965",
+    "usd_price": "37 550",
+    "vin": "5YJ3E1EBхJFхххх33",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30964119.html"
+  },
+  {
+    "model": "Tesla Model S Restyle 75",
+    "year": "2016",
+    "way": "11",
+    "uah_price": "959 082",
+    "usd_price": "35 800",
+    "vin": "5YJSA1E1XGF158127",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31147595.html"
+  },
+  {
+    "model": "Tesla Model Y LR DM Performance",
+    "year": "2020",
+    "way": "6",
+    "uah_price": "2 089 524",
+    "usd_price": "78 999",
+    "vin": "5YJYGDEFхMFхххх79",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_y_31204492.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM FSD",
+    "year": "2018",
+    "way": "39",
+    "uah_price": "1 184 118",
+    "usd_price": "44 200",
+    "vin": "5YJ3E1EB5JF100998",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30930447.html"
+  },
+  {
+    "model": "Tesla Model 3 Performance",
+    "year": "2021",
+    "way": "7",
+    "uah_price": "1 840 625",
+    "usd_price": "68 706",
+    "vin": "5YJ3E7ECхMFхххх45",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_29708780.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2014",
+    "way": "94",
+    "uah_price": "634 774",
+    "usd_price": "23 999",
+    "vin": "5YJSA1S1хEFхххх88",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_30811049.html"
+  },
+  {
+    "model": "Tesla Model X",
+    "year": "2018",
+    "way": "21",
+    "uah_price": "1 580 610",
+    "usd_price": "59 000",
+    "vin": "5YJXCBE27JF141145",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31370747.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2017",
+    "way": "55",
+    "uah_price": "1 718 986",
+    "usd_price": "64 990",
+    "vin": "5YJSA1E4хHFхххх37",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31200255.html"
+  },
+  {
+    "model": "Tesla Model X P90D Performance",
+    "year": "2016",
+    "way": "58",
+    "uah_price": "2 483 655",
+    "usd_price": "93 900",
+    "vin": "5YJXCCE4хGFхххх02",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31122560.html"
+  },
+  {
+    "model": "Tesla Model 3 Long Range FSD 3.0",
+    "year": "2018",
+    "way": "92",
+    "uah_price": "897 465",
+    "usd_price": "33 500",
+    "vin": "5YJ3E1EA3JF006786",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31221781.html"
+  },
+  {
+    "model": "Tesla Model X 90D",
+    "year": "2016",
+    "way": "98",
+    "uah_price": "1 307 352",
+    "usd_price": "48 800",
+    "vin": "5YJXCBE25GF004567",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_30671356.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2013",
+    "way": "103",
+    "uah_price": "687 436",
+    "usd_price": "25 990",
+    "vin": "5YJSA1DNхDFхххх89",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31169627.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "94",
+    "uah_price": "1 005 100",
+    "usd_price": "38 000",
+    "vin": "5YJSA1E2хGFхххх97",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31367894.html"
+  },
+  {
+    "model": "Tesla Model S 70D",
+    "year": "2016",
+    "way": "70",
+    "uah_price": "951 045",
+    "usd_price": "35 500",
+    "vin": "5YJSA1E2хGFхххх69",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_27218326.html"
+  },
+  {
+    "model": "Tesla Model S 90D",
+    "year": "2016",
+    "way": "18",
+    "uah_price": "1 042 131",
+    "usd_price": "38 900",
+    "vin": "5YJSA1E21GF132461",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31242751.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "130",
+    "uah_price": "908 181",
+    "usd_price": "33 900",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31332669.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2013",
+    "way": "187",
+    "uah_price": "621 575",
+    "usd_price": "23 500",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31013827.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM Performance",
+    "year": "2018",
+    "way": "71",
+    "uah_price": "1 190 224",
+    "usd_price": "44 999",
+    "vin": "5YJ3E1EBхJFхххх67",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31216514.html"
+  },
+  {
+    "model": "Tesla Model 3 LR Dual Motor",
+    "year": "2018",
+    "way": "11",
+    "uah_price": "1 322 474",
+    "usd_price": "49 999",
+    "vin": "5YJ3E1EBхJFхххх55",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30740770.html"
+  },
+  {
+    "model": "Tesla Model 3",
+    "year": "2017",
+    "way": "88",
+    "uah_price": "910 860",
+    "usd_price": "34 000",
+    "vin": "5YJ3E1EA2HF001492",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31363643.html"
+  },
+  {
+    "model": "Tesla Model 3 DM Performance",
+    "year": "2018",
+    "way": "98",
+    "uah_price": "1 005 965",
+    "usd_price": "37 550",
+    "vin": "5YJ3E1EBхJFхххх33",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30964119.html"
+  },
+  {
+    "model": "Tesla Model S Restyle 75",
+    "year": "2016",
+    "way": "11",
+    "uah_price": "959 082",
+    "usd_price": "35 800",
+    "vin": "5YJSA1E1XGF158127",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31147595.html"
+  },
+  {
+    "model": "Tesla Model Y LR DM Performance",
+    "year": "2020",
+    "way": "6",
+    "uah_price": "2 089 524",
+    "usd_price": "78 999",
+    "vin": "5YJYGDEFхMFхххх79",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_y_31204492.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM FSD",
+    "year": "2018",
+    "way": "39",
+    "uah_price": "1 184 118",
+    "usd_price": "44 200",
+    "vin": "5YJ3E1EB5JF100998",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30930447.html"
+  },
+  {
+    "model": "Tesla Model 3 Performance",
+    "year": "2021",
+    "way": "7",
+    "uah_price": "1 840 625",
+    "usd_price": "68 706",
+    "vin": "5YJ3E7ECхMFхххх45",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_29708780.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2014",
+    "way": "94",
+    "uah_price": "634 774",
+    "usd_price": "23 999",
+    "vin": "5YJSA1S1хEFхххх88",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_30811049.html"
+  },
+  {
+    "model": "Tesla Model X",
+    "year": "2018",
+    "way": "21",
+    "uah_price": "1 580 610",
+    "usd_price": "59 000",
+    "vin": "5YJXCBE27JF141145",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31370747.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2017",
+    "way": "55",
+    "uah_price": "1 718 986",
+    "usd_price": "64 990",
+    "vin": "5YJSA1E4хHFхххх37",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31200255.html"
+  },
+  {
+    "model": "Tesla Model X P90D Performance",
+    "year": "2016",
+    "way": "58",
+    "uah_price": "2 483 655",
+    "usd_price": "93 900",
+    "vin": "5YJXCCE4хGFхххх02",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31122560.html"
+  },
+  {
+    "model": "Tesla Model 3 Long Range FSD 3.0",
+    "year": "2018",
+    "way": "92",
+    "uah_price": "897 465",
+    "usd_price": "33 500",
+    "vin": "5YJ3E1EA3JF006786",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31221781.html"
+  },
+  {
+    "model": "Tesla Model X 90D",
+    "year": "2016",
+    "way": "98",
+    "uah_price": "1 307 352",
+    "usd_price": "48 800",
+    "vin": "5YJXCBE25GF004567",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_30671356.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2013",
+    "way": "103",
+    "uah_price": "687 436",
+    "usd_price": "25 990",
+    "vin": "5YJSA1DNхDFхххх89",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31169627.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "94",
+    "uah_price": "1 005 100",
+    "usd_price": "38 000",
+    "vin": "5YJSA1E2хGFхххх97",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31367894.html"
+  },
+  {
+    "model": "Tesla Model S 70D",
+    "year": "2016",
+    "way": "70",
+    "uah_price": "951 045",
+    "usd_price": "35 500",
+    "vin": "5YJSA1E2хGFхххх69",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_27218326.html"
+  },
+  {
+    "model": "Tesla Model S 90D",
+    "year": "2016",
+    "way": "18",
+    "uah_price": "1 042 131",
+    "usd_price": "38 900",
+    "vin": "5YJSA1E21GF132461",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31242751.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "130",
+    "uah_price": "908 181",
+    "usd_price": "33 900",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31332669.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2013",
+    "way": "187",
+    "uah_price": "621 575",
+    "usd_price": "23 500",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31013827.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM Performance",
+    "year": "2018",
+    "way": "71",
+    "uah_price": "1 190 224",
+    "usd_price": "44 999",
+    "vin": "5YJ3E1EBхJFхххх67",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31216514.html"
+  },
+  {
+    "model": "Tesla Model 3 LR Dual Motor",
+    "year": "2018",
+    "way": "11",
+    "uah_price": "1 322 474",
+    "usd_price": "49 999",
+    "vin": "5YJ3E1EBхJFхххх55",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30740770.html"
+  },
+  {
+    "model": "Tesla Model 3",
+    "year": "2017",
+    "way": "88",
+    "uah_price": "910 860",
+    "usd_price": "34 000",
+    "vin": "5YJ3E1EA2HF001492",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31363643.html"
+  },
+  {
+    "model": "Tesla Model 3 DM Performance",
+    "year": "2018",
+    "way": "98",
+    "uah_price": "1 005 965",
+    "usd_price": "37 550",
+    "vin": "5YJ3E1EBхJFхххх33",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30964119.html"
+  },
+  {
+    "model": "Tesla Model S Restyle 75",
+    "year": "2016",
+    "way": "11",
+    "uah_price": "959 082",
+    "usd_price": "35 800",
+    "vin": "5YJSA1E1XGF158127",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31147595.html"
+  },
+  {
+    "model": "Tesla Model Y LR DM Performance",
+    "year": "2020",
+    "way": "6",
+    "uah_price": "2 089 524",
+    "usd_price": "78 999",
+    "vin": "5YJYGDEFхMFхххх79",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_y_31204492.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM FSD",
+    "year": "2018",
+    "way": "39",
+    "uah_price": "1 184 118",
+    "usd_price": "44 200",
+    "vin": "5YJ3E1EB5JF100998",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30930447.html"
+  },
+  {
+    "model": "Tesla Model 3 Performance",
+    "year": "2021",
+    "way": "7",
+    "uah_price": "1 840 625",
+    "usd_price": "68 706",
+    "vin": "5YJ3E7ECхMFхххх45",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_29708780.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2014",
+    "way": "94",
+    "uah_price": "634 774",
+    "usd_price": "23 999",
+    "vin": "5YJSA1S1хEFхххх88",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_30811049.html"
+  },
+  {
+    "model": "Tesla Model X",
+    "year": "2018",
+    "way": "21",
+    "uah_price": "1 580 610",
+    "usd_price": "59 000",
+    "vin": "5YJXCBE27JF141145",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31370747.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2017",
+    "way": "55",
+    "uah_price": "1 718 986",
+    "usd_price": "64 990",
+    "vin": "5YJSA1E4хHFхххх37",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31200255.html"
+  },
+  {
+    "model": "Tesla Model X P90D Performance",
+    "year": "2016",
+    "way": "58",
+    "uah_price": "2 483 655",
+    "usd_price": "93 900",
+    "vin": "5YJXCCE4хGFхххх02",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31122560.html"
+  },
+  {
+    "model": "Tesla Model 3 Long Range FSD 3.0",
+    "year": "2018",
+    "way": "92",
+    "uah_price": "897 465",
+    "usd_price": "33 500",
+    "vin": "5YJ3E1EA3JF006786",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31221781.html"
+  },
+  {
+    "model": "Tesla Model X 90D",
+    "year": "2016",
+    "way": "98",
+    "uah_price": "1 307 352",
+    "usd_price": "48 800",
+    "vin": "5YJXCBE25GF004567",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_30671356.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2013",
+    "way": "103",
+    "uah_price": "687 436",
+    "usd_price": "25 990",
+    "vin": "5YJSA1DNхDFхххх89",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31169627.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "94",
+    "uah_price": "1 005 100",
+    "usd_price": "38 000",
+    "vin": "5YJSA1E2хGFхххх97",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31367894.html"
+  },
+  {
+    "model": "Tesla Model S 70D",
+    "year": "2016",
+    "way": "70",
+    "uah_price": "951 045",
+    "usd_price": "35 500",
+    "vin": "5YJSA1E2хGFхххх69",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_27218326.html"
+  },
+  {
+    "model": "Tesla Model S 90D",
+    "year": "2016",
+    "way": "18",
+    "uah_price": "1 042 131",
+    "usd_price": "38 900",
+    "vin": "5YJSA1E21GF132461",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31242751.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "130",
+    "uah_price": "908 181",
+    "usd_price": "33 900",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31332669.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2013",
+    "way": "187",
+    "uah_price": "621 575",
+    "usd_price": "23 500",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31013827.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM Performance",
+    "year": "2018",
+    "way": "71",
+    "uah_price": "1 190 224",
+    "usd_price": "44 999",
+    "vin": "5YJ3E1EBхJFхххх67",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31216514.html"
+  },
+  {
+    "model": "Tesla Model 3 LR Dual Motor",
+    "year": "2018",
+    "way": "11",
+    "uah_price": "1 322 474",
+    "usd_price": "49 999",
+    "vin": "5YJ3E1EBхJFхххх55",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30740770.html"
+  },
+  {
+    "model": "Tesla Model 3",
+    "year": "2017",
+    "way": "88",
+    "uah_price": "910 860",
+    "usd_price": "34 000",
+    "vin": "5YJ3E1EA2HF001492",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31363643.html"
+  },
+  {
+    "model": "Tesla Model 3 DM Performance",
+    "year": "2018",
+    "way": "98",
+    "uah_price": "1 005 965",
+    "usd_price": "37 550",
+    "vin": "5YJ3E1EBхJFхххх33",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30964119.html"
+  },
+  {
+    "model": "Tesla Model S Restyle 75",
+    "year": "2016",
+    "way": "11",
+    "uah_price": "959 082",
+    "usd_price": "35 800",
+    "vin": "5YJSA1E1XGF158127",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31147595.html"
+  },
+  {
+    "model": "Tesla Model Y LR DM Performance",
+    "year": "2020",
+    "way": "6",
+    "uah_price": "2 089 524",
+    "usd_price": "78 999",
+    "vin": "5YJYGDEFхMFхххх79",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_y_31204492.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM FSD",
+    "year": "2018",
+    "way": "39",
+    "uah_price": "1 184 118",
+    "usd_price": "44 200",
+    "vin": "5YJ3E1EB5JF100998",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30930447.html"
+  },
+  {
+    "model": "Tesla Model 3 Performance",
+    "year": "2021",
+    "way": "7",
+    "uah_price": "1 840 625",
+    "usd_price": "68 706",
+    "vin": "5YJ3E7ECхMFхххх45",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_29708780.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2014",
+    "way": "94",
+    "uah_price": "634 774",
+    "usd_price": "23 999",
+    "vin": "5YJSA1S1хEFхххх88",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_30811049.html"
+  },
+  {
+    "model": "Tesla Model X",
+    "year": "2018",
+    "way": "21",
+    "uah_price": "1 580 610",
+    "usd_price": "59 000",
+    "vin": "5YJXCBE27JF141145",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31370747.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2017",
+    "way": "55",
+    "uah_price": "1 718 986",
+    "usd_price": "64 990",
+    "vin": "5YJSA1E4хHFхххх37",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31200255.html"
+  },
+  {
+    "model": "Tesla Model X P90D Performance",
+    "year": "2016",
+    "way": "58",
+    "uah_price": "2 483 655",
+    "usd_price": "93 900",
+    "vin": "5YJXCCE4хGFхххх02",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31122560.html"
+  },
+  {
+    "model": "Tesla Model 3 Long Range FSD 3.0",
+    "year": "2018",
+    "way": "92",
+    "uah_price": "897 465",
+    "usd_price": "33 500",
+    "vin": "5YJ3E1EA3JF006786",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31221781.html"
+  },
+  {
+    "model": "Tesla Model X 90D",
+    "year": "2016",
+    "way": "98",
+    "uah_price": "1 307 352",
+    "usd_price": "48 800",
+    "vin": "5YJXCBE25GF004567",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_30671356.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2013",
+    "way": "103",
+    "uah_price": "687 436",
+    "usd_price": "25 990",
+    "vin": "5YJSA1DNхDFхххх89",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31169627.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "94",
+    "uah_price": "1 005 100",
+    "usd_price": "38 000",
+    "vin": "5YJSA1E2хGFхххх97",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31367894.html"
+  },
+  {
+    "model": "Tesla Model S 70D",
+    "year": "2016",
+    "way": "70",
+    "uah_price": "951 045",
+    "usd_price": "35 500",
+    "vin": "5YJSA1E2хGFхххх69",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_27218326.html"
+  },
+  {
+    "model": "Tesla Model S 90D",
+    "year": "2016",
+    "way": "18",
+    "uah_price": "1 042 131",
+    "usd_price": "38 900",
+    "vin": "5YJSA1E21GF132461",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31242751.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "130",
+    "uah_price": "908 181",
+    "usd_price": "33 900",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31332669.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2013",
+    "way": "187",
+    "uah_price": "621 575",
+    "usd_price": "23 500",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31013827.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM Performance",
+    "year": "2018",
+    "way": "71",
+    "uah_price": "1 190 224",
+    "usd_price": "44 999",
+    "vin": "5YJ3E1EBхJFхххх67",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31216514.html"
+  },
+  {
+    "model": "Tesla Model 3 LR Dual Motor",
+    "year": "2018",
+    "way": "11",
+    "uah_price": "1 322 474",
+    "usd_price": "49 999",
+    "vin": "5YJ3E1EBхJFхххх55",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30740770.html"
+  },
+  {
+    "model": "Tesla Model 3",
+    "year": "2017",
+    "way": "88",
+    "uah_price": "910 860",
+    "usd_price": "34 000",
+    "vin": "5YJ3E1EA2HF001492",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31363643.html"
+  },
+  {
+    "model": "Tesla Model 3 DM Performance",
+    "year": "2018",
+    "way": "98",
+    "uah_price": "1 005 965",
+    "usd_price": "37 550",
+    "vin": "5YJ3E1EBхJFхххх33",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30964119.html"
+  },
+  {
+    "model": "Tesla Model S Restyle 75",
+    "year": "2016",
+    "way": "11",
+    "uah_price": "959 082",
+    "usd_price": "35 800",
+    "vin": "5YJSA1E1XGF158127",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31147595.html"
+  },
+  {
+    "model": "Tesla Model Y LR DM Performance",
+    "year": "2020",
+    "way": "6",
+    "uah_price": "2 089 524",
+    "usd_price": "78 999",
+    "vin": "5YJYGDEFхMFхххх79",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_y_31204492.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM FSD",
+    "year": "2018",
+    "way": "39",
+    "uah_price": "1 184 118",
+    "usd_price": "44 200",
+    "vin": "5YJ3E1EB5JF100998",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30930447.html"
+  },
+  {
+    "model": "Tesla Model 3 Performance",
+    "year": "2021",
+    "way": "7",
+    "uah_price": "1 840 625",
+    "usd_price": "68 706",
+    "vin": "5YJ3E7ECхMFхххх45",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_29708780.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2014",
+    "way": "94",
+    "uah_price": "634 774",
+    "usd_price": "23 999",
+    "vin": "5YJSA1S1хEFхххх88",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_30811049.html"
+  },
+  {
+    "model": "Tesla Model X",
+    "year": "2018",
+    "way": "21",
+    "uah_price": "1 580 610",
+    "usd_price": "59 000",
+    "vin": "5YJXCBE27JF141145",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31370747.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2017",
+    "way": "55",
+    "uah_price": "1 718 986",
+    "usd_price": "64 990",
+    "vin": "5YJSA1E4хHFхххх37",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31200255.html"
+  },
+  {
+    "model": "Tesla Model X P90D Performance",
+    "year": "2016",
+    "way": "58",
+    "uah_price": "2 483 655",
+    "usd_price": "93 900",
+    "vin": "5YJXCCE4хGFхххх02",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31122560.html"
+  },
+  {
+    "model": "Tesla Model 3 Long Range FSD 3.0",
+    "year": "2018",
+    "way": "92",
+    "uah_price": "897 465",
+    "usd_price": "33 500",
+    "vin": "5YJ3E1EA3JF006786",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31221781.html"
+  },
+  {
+    "model": "Tesla Model X 90D",
+    "year": "2016",
+    "way": "98",
+    "uah_price": "1 307 352",
+    "usd_price": "48 800",
+    "vin": "5YJXCBE25GF004567",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_30671356.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2013",
+    "way": "103",
+    "uah_price": "687 436",
+    "usd_price": "25 990",
+    "vin": "5YJSA1DNхDFхххх89",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31169627.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "94",
+    "uah_price": "1 005 100",
+    "usd_price": "38 000",
+    "vin": "5YJSA1E2хGFхххх97",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31367894.html"
+  },
+  {
+    "model": "Tesla Model S 70D",
+    "year": "2016",
+    "way": "70",
+    "uah_price": "951 045",
+    "usd_price": "35 500",
+    "vin": "5YJSA1E2хGFхххх69",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_27218326.html"
+  },
+  {
+    "model": "Tesla Model S 90D",
+    "year": "2016",
+    "way": "18",
+    "uah_price": "1 042 131",
+    "usd_price": "38 900",
+    "vin": "5YJSA1E21GF132461",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31242751.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "130",
+    "uah_price": "908 181",
+    "usd_price": "33 900",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31332669.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2013",
+    "way": "187",
+    "uah_price": "621 575",
+    "usd_price": "23 500",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31013827.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM Performance",
+    "year": "2018",
+    "way": "71",
+    "uah_price": "1 190 224",
+    "usd_price": "44 999",
+    "vin": "5YJ3E1EBхJFхххх67",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31216514.html"
+  },
+  {
+    "model": "Tesla Model 3 LR Dual Motor",
+    "year": "2018",
+    "way": "11",
+    "uah_price": "1 322 474",
+    "usd_price": "49 999",
+    "vin": "5YJ3E1EBхJFхххх55",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30740770.html"
+  },
+  {
+    "model": "Tesla Model 3",
+    "year": "2017",
+    "way": "88",
+    "uah_price": "910 860",
+    "usd_price": "34 000",
+    "vin": "5YJ3E1EA2HF001492",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31363643.html"
+  },
+  {
+    "model": "Tesla Model 3 DM Performance",
+    "year": "2018",
+    "way": "98",
+    "uah_price": "1 005 965",
+    "usd_price": "37 550",
+    "vin": "5YJ3E1EBхJFхххх33",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30964119.html"
+  },
+  {
+    "model": "Tesla Model S Restyle 75",
+    "year": "2016",
+    "way": "11",
+    "uah_price": "959 082",
+    "usd_price": "35 800",
+    "vin": "5YJSA1E1XGF158127",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31147595.html"
+  },
+  {
+    "model": "Tesla Model Y LR DM Performance",
+    "year": "2020",
+    "way": "6",
+    "uah_price": "2 089 524",
+    "usd_price": "78 999",
+    "vin": "5YJYGDEFхMFхххх79",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_y_31204492.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM FSD",
+    "year": "2018",
+    "way": "39",
+    "uah_price": "1 184 118",
+    "usd_price": "44 200",
+    "vin": "5YJ3E1EB5JF100998",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30930447.html"
+  },
+  {
+    "model": "Tesla Model 3 Performance",
+    "year": "2021",
+    "way": "7",
+    "uah_price": "1 840 625",
+    "usd_price": "68 706",
+    "vin": "5YJ3E7ECхMFхххх45",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_29708780.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2014",
+    "way": "94",
+    "uah_price": "634 774",
+    "usd_price": "23 999",
+    "vin": "5YJSA1S1хEFхххх88",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_30811049.html"
+  },
+  {
+    "model": "Tesla Model X",
+    "year": "2018",
+    "way": "21",
+    "uah_price": "1 580 610",
+    "usd_price": "59 000",
+    "vin": "5YJXCBE27JF141145",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31370747.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2017",
+    "way": "55",
+    "uah_price": "1 718 986",
+    "usd_price": "64 990",
+    "vin": "5YJSA1E4хHFхххх37",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31200255.html"
+  },
+  {
+    "model": "Tesla Model X P90D Performance",
+    "year": "2016",
+    "way": "58",
+    "uah_price": "2 483 655",
+    "usd_price": "93 900",
+    "vin": "5YJXCCE4хGFхххх02",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31122560.html"
+  },
+  {
+    "model": "Tesla Model 3 Long Range FSD 3.0",
+    "year": "2018",
+    "way": "92",
+    "uah_price": "897 465",
+    "usd_price": "33 500",
+    "vin": "5YJ3E1EA3JF006786",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31221781.html"
+  },
+  {
+    "model": "Tesla Model X 90D",
+    "year": "2016",
+    "way": "98",
+    "uah_price": "1 307 352",
+    "usd_price": "48 800",
+    "vin": "5YJXCBE25GF004567",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_30671356.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2013",
+    "way": "103",
+    "uah_price": "687 436",
+    "usd_price": "25 990",
+    "vin": "5YJSA1DNхDFхххх89",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31169627.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "94",
+    "uah_price": "1 005 100",
+    "usd_price": "38 000",
+    "vin": "5YJSA1E2хGFхххх97",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31367894.html"
+  },
+  {
+    "model": "Tesla Model S 70D",
+    "year": "2016",
+    "way": "70",
+    "uah_price": "951 045",
+    "usd_price": "35 500",
+    "vin": "5YJSA1E2хGFхххх69",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_27218326.html"
+  },
+  {
+    "model": "Tesla Model S 90D",
+    "year": "2016",
+    "way": "18",
+    "uah_price": "1 042 131",
+    "usd_price": "38 900",
+    "vin": "5YJSA1E21GF132461",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31242751.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "130",
+    "uah_price": "908 181",
+    "usd_price": "33 900",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31332669.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2013",
+    "way": "187",
+    "uah_price": "621 575",
+    "usd_price": "23 500",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31013827.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM Performance",
+    "year": "2018",
+    "way": "71",
+    "uah_price": "1 190 224",
+    "usd_price": "44 999",
+    "vin": "5YJ3E1EBхJFхххх67",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31216514.html"
+  },
+  {
+    "model": "Tesla Model 3 LR Dual Motor",
+    "year": "2018",
+    "way": "11",
+    "uah_price": "1 322 474",
+    "usd_price": "49 999",
+    "vin": "5YJ3E1EBхJFхххх55",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30740770.html"
+  },
+  {
+    "model": "Tesla Model 3",
+    "year": "2017",
+    "way": "88",
+    "uah_price": "910 860",
+    "usd_price": "34 000",
+    "vin": "5YJ3E1EA2HF001492",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31363643.html"
+  },
+  {
+    "model": "Tesla Model 3 DM Performance",
+    "year": "2018",
+    "way": "98",
+    "uah_price": "1 005 965",
+    "usd_price": "37 550",
+    "vin": "5YJ3E1EBхJFхххх33",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30964119.html"
+  },
+  {
+    "model": "Tesla Model S Restyle 75",
+    "year": "2016",
+    "way": "11",
+    "uah_price": "959 082",
+    "usd_price": "35 800",
+    "vin": "5YJSA1E1XGF158127",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31147595.html"
+  },
+  {
+    "model": "Tesla Model Y LR DM Performance",
+    "year": "2020",
+    "way": "6",
+    "uah_price": "2 089 524",
+    "usd_price": "78 999",
+    "vin": "5YJYGDEFхMFхххх79",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_y_31204492.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM FSD",
+    "year": "2018",
+    "way": "39",
+    "uah_price": "1 184 118",
+    "usd_price": "44 200",
+    "vin": "5YJ3E1EB5JF100998",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30930447.html"
+  },
+  {
+    "model": "Tesla Model 3 Performance",
+    "year": "2021",
+    "way": "7",
+    "uah_price": "1 840 625",
+    "usd_price": "68 706",
+    "vin": "5YJ3E7ECхMFхххх45",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_29708780.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2014",
+    "way": "94",
+    "uah_price": "634 774",
+    "usd_price": "23 999",
+    "vin": "5YJSA1S1хEFхххх88",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_30811049.html"
+  },
+  {
+    "model": "Tesla Model X",
+    "year": "2018",
+    "way": "21",
+    "uah_price": "1 580 610",
+    "usd_price": "59 000",
+    "vin": "5YJXCBE27JF141145",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31370747.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2017",
+    "way": "55",
+    "uah_price": "1 718 986",
+    "usd_price": "64 990",
+    "vin": "5YJSA1E4хHFхххх37",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31200255.html"
+  },
+  {
+    "model": "Tesla Model X P90D Performance",
+    "year": "2016",
+    "way": "58",
+    "uah_price": "2 483 655",
+    "usd_price": "93 900",
+    "vin": "5YJXCCE4хGFхххх02",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31122560.html"
+  },
+  {
+    "model": "Tesla Model 3 Long Range FSD 3.0",
+    "year": "2018",
+    "way": "92",
+    "uah_price": "897 465",
+    "usd_price": "33 500",
+    "vin": "5YJ3E1EA3JF006786",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31221781.html"
+  },
+  {
+    "model": "Tesla Model X 90D",
+    "year": "2016",
+    "way": "98",
+    "uah_price": "1 307 352",
+    "usd_price": "48 800",
+    "vin": "5YJXCBE25GF004567",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_30671356.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2013",
+    "way": "103",
+    "uah_price": "687 436",
+    "usd_price": "25 990",
+    "vin": "5YJSA1DNхDFхххх89",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31169627.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "94",
+    "uah_price": "1 005 100",
+    "usd_price": "38 000",
+    "vin": "5YJSA1E2хGFхххх97",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31367894.html"
+  },
+  {
+    "model": "Tesla Model S 70D",
+    "year": "2016",
+    "way": "70",
+    "uah_price": "951 045",
+    "usd_price": "35 500",
+    "vin": "5YJSA1E2хGFхххх69",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_27218326.html"
+  },
+  {
+    "model": "Tesla Model S 90D",
+    "year": "2016",
+    "way": "18",
+    "uah_price": "1 042 131",
+    "usd_price": "38 900",
+    "vin": "5YJSA1E21GF132461",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31242751.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "130",
+    "uah_price": "908 181",
+    "usd_price": "33 900",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31332669.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2013",
+    "way": "187",
+    "uah_price": "621 575",
+    "usd_price": "23 500",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31013827.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM Performance",
+    "year": "2018",
+    "way": "71",
+    "uah_price": "1 190 224",
+    "usd_price": "44 999",
+    "vin": "5YJ3E1EBхJFхххх67",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31216514.html"
+  },
+  {
+    "model": "Tesla Model 3 LR Dual Motor",
+    "year": "2018",
+    "way": "11",
+    "uah_price": "1 322 474",
+    "usd_price": "49 999",
+    "vin": "5YJ3E1EBхJFхххх55",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30740770.html"
+  },
+  {
+    "model": "Tesla Model 3",
+    "year": "2017",
+    "way": "88",
+    "uah_price": "910 860",
+    "usd_price": "34 000",
+    "vin": "5YJ3E1EA2HF001492",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31363643.html"
+  },
+  {
+    "model": "Tesla Model 3 DM Performance",
+    "year": "2018",
+    "way": "98",
+    "uah_price": "1 005 965",
+    "usd_price": "37 550",
+    "vin": "5YJ3E1EBхJFхххх33",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30964119.html"
+  },
+  {
+    "model": "Tesla Model S Restyle 75",
+    "year": "2016",
+    "way": "11",
+    "uah_price": "959 082",
+    "usd_price": "35 800",
+    "vin": "5YJSA1E1XGF158127",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31147595.html"
+  },
+  {
+    "model": "Tesla Model Y LR DM Performance",
+    "year": "2020",
+    "way": "6",
+    "uah_price": "2 089 524",
+    "usd_price": "78 999",
+    "vin": "5YJYGDEFхMFхххх79",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_y_31204492.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM FSD",
+    "year": "2018",
+    "way": "39",
+    "uah_price": "1 184 118",
+    "usd_price": "44 200",
+    "vin": "5YJ3E1EB5JF100998",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30930447.html"
+  },
+  {
+    "model": "Tesla Model 3 Performance",
+    "year": "2021",
+    "way": "7",
+    "uah_price": "1 840 625",
+    "usd_price": "68 706",
+    "vin": "5YJ3E7ECхMFхххх45",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_29708780.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2014",
+    "way": "94",
+    "uah_price": "634 774",
+    "usd_price": "23 999",
+    "vin": "5YJSA1S1хEFхххх88",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_30811049.html"
+  },
+  {
+    "model": "Tesla Model X",
+    "year": "2018",
+    "way": "21",
+    "uah_price": "1 580 610",
+    "usd_price": "59 000",
+    "vin": "5YJXCBE27JF141145",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31370747.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2017",
+    "way": "55",
+    "uah_price": "1 718 986",
+    "usd_price": "64 990",
+    "vin": "5YJSA1E4хHFхххх37",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31200255.html"
+  },
+  {
+    "model": "Tesla Model X P90D Performance",
+    "year": "2016",
+    "way": "58",
+    "uah_price": "2 483 655",
+    "usd_price": "93 900",
+    "vin": "5YJXCCE4хGFхххх02",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31122560.html"
+  },
+  {
+    "model": "Tesla Model 3 Long Range FSD 3.0",
+    "year": "2018",
+    "way": "92",
+    "uah_price": "897 465",
+    "usd_price": "33 500",
+    "vin": "5YJ3E1EA3JF006786",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31221781.html"
+  },
+  {
+    "model": "Tesla Model X 90D",
+    "year": "2016",
+    "way": "98",
+    "uah_price": "1 307 352",
+    "usd_price": "48 800",
+    "vin": "5YJXCBE25GF004567",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_30671356.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2013",
+    "way": "103",
+    "uah_price": "687 436",
+    "usd_price": "25 990",
+    "vin": "5YJSA1DNхDFхххх89",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31169627.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "94",
+    "uah_price": "1 005 100",
+    "usd_price": "38 000",
+    "vin": "5YJSA1E2хGFхххх97",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31367894.html"
+  },
+  {
+    "model": "Tesla Model S 70D",
+    "year": "2016",
+    "way": "70",
+    "uah_price": "951 045",
+    "usd_price": "35 500",
+    "vin": "5YJSA1E2хGFхххх69",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_27218326.html"
+  },
+  {
+    "model": "Tesla Model S 90D",
+    "year": "2016",
+    "way": "18",
+    "uah_price": "1 042 131",
+    "usd_price": "38 900",
+    "vin": "5YJSA1E21GF132461",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31242751.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "130",
+    "uah_price": "908 181",
+    "usd_price": "33 900",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31332669.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2013",
+    "way": "187",
+    "uah_price": "621 575",
+    "usd_price": "23 500",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31013827.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM Performance",
+    "year": "2018",
+    "way": "71",
+    "uah_price": "1 190 224",
+    "usd_price": "44 999",
+    "vin": "5YJ3E1EBхJFхххх67",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31216514.html"
+  },
+  {
+    "model": "Tesla Model 3 LR Dual Motor",
+    "year": "2018",
+    "way": "11",
+    "uah_price": "1 322 474",
+    "usd_price": "49 999",
+    "vin": "5YJ3E1EBхJFхххх55",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30740770.html"
+  },
+  {
+    "model": "Tesla Model 3",
+    "year": "2017",
+    "way": "88",
+    "uah_price": "910 860",
+    "usd_price": "34 000",
+    "vin": "5YJ3E1EA2HF001492",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31363643.html"
+  },
+  {
+    "model": "Tesla Model 3 DM Performance",
+    "year": "2018",
+    "way": "98",
+    "uah_price": "1 005 965",
+    "usd_price": "37 550",
+    "vin": "5YJ3E1EBхJFхххх33",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30964119.html"
+  },
+  {
+    "model": "Tesla Model S Restyle 75",
+    "year": "2016",
+    "way": "11",
+    "uah_price": "959 082",
+    "usd_price": "35 800",
+    "vin": "5YJSA1E1XGF158127",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31147595.html"
+  },
+  {
+    "model": "Tesla Model Y LR DM Performance",
+    "year": "2020",
+    "way": "6",
+    "uah_price": "2 089 524",
+    "usd_price": "78 999",
+    "vin": "5YJYGDEFхMFхххх79",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_y_31204492.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM FSD",
+    "year": "2018",
+    "way": "39",
+    "uah_price": "1 184 118",
+    "usd_price": "44 200",
+    "vin": "5YJ3E1EB5JF100998",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30930447.html"
+  },
+  {
+    "model": "Tesla Model 3 Performance",
+    "year": "2021",
+    "way": "7",
+    "uah_price": "1 840 625",
+    "usd_price": "68 706",
+    "vin": "5YJ3E7ECхMFхххх45",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_29708780.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2014",
+    "way": "94",
+    "uah_price": "634 774",
+    "usd_price": "23 999",
+    "vin": "5YJSA1S1хEFхххх88",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_30811049.html"
+  },
+  {
+    "model": "Tesla Model X",
+    "year": "2018",
+    "way": "21",
+    "uah_price": "1 580 610",
+    "usd_price": "59 000",
+    "vin": "5YJXCBE27JF141145",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31370747.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2017",
+    "way": "55",
+    "uah_price": "1 718 986",
+    "usd_price": "64 990",
+    "vin": "5YJSA1E4хHFхххх37",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31200255.html"
+  },
+  {
+    "model": "Tesla Model X P90D Performance",
+    "year": "2016",
+    "way": "58",
+    "uah_price": "2 483 655",
+    "usd_price": "93 900",
+    "vin": "5YJXCCE4хGFхххх02",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31122560.html"
+  },
+  {
+    "model": "Tesla Model 3 Long Range FSD 3.0",
+    "year": "2018",
+    "way": "92",
+    "uah_price": "897 465",
+    "usd_price": "33 500",
+    "vin": "5YJ3E1EA3JF006786",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31221781.html"
+  },
+  {
+    "model": "Tesla Model X 90D",
+    "year": "2016",
+    "way": "98",
+    "uah_price": "1 307 352",
+    "usd_price": "48 800",
+    "vin": "5YJXCBE25GF004567",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_30671356.html"
+  },
+  {
+    "model": "Tesla Model S",
+    "year": "2013",
+    "way": "103",
+    "uah_price": "687 436",
+    "usd_price": "25 990",
+    "vin": "5YJSA1DNхDFхххх89",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31169627.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "94",
+    "uah_price": "1 005 100",
+    "usd_price": "38 000",
+    "vin": "5YJSA1E2хGFхххх97",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31367894.html"
+  },
+  {
+    "model": "Tesla Model S 70D",
+    "year": "2016",
+    "way": "70",
+    "uah_price": "951 045",
+    "usd_price": "35 500",
+    "vin": "5YJSA1E2хGFхххх69",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_27218326.html"
+  },
+  {
+    "model": "Tesla Model S 90D",
+    "year": "2016",
+    "way": "18",
+    "uah_price": "1 042 131",
+    "usd_price": "38 900",
+    "vin": "5YJSA1E21GF132461",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31242751.html"
+  },
+  {
+    "model": "Tesla Model S 75",
+    "year": "2016",
+    "way": "130",
+    "uah_price": "908 181",
+    "usd_price": "33 900",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31332669.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2013",
+    "way": "187",
+    "uah_price": "621 575",
+    "usd_price": "23 500",
+    "vin": "no VIN",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31013827.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM Performance",
+    "year": "2018",
+    "way": "71",
+    "uah_price": "1 190 224",
+    "usd_price": "44 999",
+    "vin": "5YJ3E1EBхJFхххх67",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31216514.html"
+  },
+  {
+    "model": "Tesla Model 3 LR Dual Motor",
+    "year": "2018",
+    "way": "11",
+    "uah_price": "1 322 474",
+    "usd_price": "49 999",
+    "vin": "5YJ3E1EBхJFхххх55",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30740770.html"
+  },
+  {
+    "model": "Tesla Model 3",
+    "year": "2017",
+    "way": "88",
+    "uah_price": "910 860",
+    "usd_price": "34 000",
+    "vin": "5YJ3E1EA2HF001492",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_31363643.html"
+  },
+  {
+    "model": "Tesla Model 3 DM Performance",
+    "year": "2018",
+    "way": "98",
+    "uah_price": "1 005 965",
+    "usd_price": "37 550",
+    "vin": "5YJ3E1EBхJFхххх33",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30964119.html"
+  },
+  {
+    "model": "Tesla Model S Restyle 75",
+    "year": "2016",
+    "way": "11",
+    "uah_price": "959 082",
+    "usd_price": "35 800",
+    "vin": "5YJSA1E1XGF158127",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_31147595.html"
+  },
+  {
+    "model": "Tesla Model Y LR DM Performance",
+    "year": "2020",
+    "way": "6",
+    "uah_price": "2 089 524",
+    "usd_price": "78 999",
+    "vin": "5YJYGDEFхMFхххх79",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_y_31204492.html"
+  },
+  {
+    "model": "Tesla Model 3 LR DM FSD",
+    "year": "2018",
+    "way": "39",
+    "uah_price": "1 184 118",
+    "usd_price": "44 200",
+    "vin": "5YJ3E1EB5JF100998",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_30930447.html"
+  },
+  {
+    "model": "Tesla Model 3 Performance",
+    "year": "2021",
+    "way": "7",
+    "uah_price": "1 840 625",
+    "usd_price": "68 706",
+    "vin": "5YJ3E7ECхMFхххх45",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_3_29708780.html"
+  },
+  {
+    "model": "Tesla Model S 60",
+    "year": "2014",
+    "way": "94",
+    "uah_price": "634 774",
+    "usd_price": "23 999",
+    "vin": "5YJSA1S1хEFхххх88",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_s_30811049.html"
+  },
+  {
+    "model": "Tesla Model X",
+    "year": "2018",
+    "way": "21",
+    "uah_price": "1 580 610",
+    "usd_price": "59 000",
+    "vin": "5YJXCBE27JF141145",
+    "link": "https://auto.ria.com/uk/auto_tesla_model_x_31370747.html"
+  }
+]
